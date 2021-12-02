@@ -204,16 +204,21 @@ df1 <- read.csv(paste0("inst/extdata/prc_mission_websites/prc_missions_",yesterd
 df2 <- read.csv(paste0("inst/extdata/prc_mission_websites/prc_missions_",tdy,".csv"))
 df3 <- read.csv(paste0("inst/extdata/prc_mission_websites/prc_missions_2021-11-22.csv"))
 
-summary <- arsenal::comparedf(df3,df2, by = "id") %>% summary()
+summary <- arsenal::comparedf(df1,df2, by = "id") %>% summary()
 
 summary
 summary$diffs.byvar.table$n %>% sum
 
-merged <- 
-  left_join(df3,df2,
-            by = "mission_name") %>%
-  select(mission_name,
-         noquote(order(colnames(df))))
+
+
+# manually inspect differences
+
+# merged <- 
+#   left_join(df3,df2,
+#             by = "mission_name") %>%
+#   select(mission_name,
+#          (order(colnames(.)))) %>% 
+#   filter(dip_name.x != dip_name.y)
 
 
 ###############################
