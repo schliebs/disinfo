@@ -46,23 +46,33 @@ get_sub_missions <-
       html %>%
       html_nodes("a") 
     
-    tf <- str_detect(urls %>% html_attr('href'),"\\.\\/t")
+    #tf <- str_detect(urls %>% html_attr('href'),"\\.\\/t")
+    tf <- 
+      str_detect(urls %>% html_attr('href'),"\\/t[0-9]") 
+    
+    # remove Houston
+    nothouston <- 
+      !str_detect(urls %>% html_attr('href'),"china-embassy")
     
     child_level <-
       urls %>% 
-      .[tf] %>% 
+      .[tf & nothouston] %>% 
       html_attr('href') %>%
-      str_remove_all("\\.\\/")
+      str_remove_all("\\.\\/") 
     
     out <- paste0(url,"",child_level)
     
     child_name <- 
-      urls %>% .[tf] %>% html_text()
+      urls %>% .[tf & nothouston] %>% html_text()
     
     
     return(data.frame(name = child_name,cat = cat,region = region,url = out))
     
   }
+
+get_sub_missions(url = embassies$urls[13],
+                 cat = embassies$cat[13],
+                 region = embassies$region[13])
 
 
 resolved_mission_links <- 
@@ -71,8 +81,9 @@ resolved_mission_links <-
                embassies$region),
     .f = get_sub_missions) %>%
   bind_rows() %>%
-  mutate(id = str_extract(url, "(?<=/)t[0-9]{1,10}(?=.shtml)"))
+  mutate(id = str_extract(url, "(?<=\\/)t[0-9,_]{1,30}(?=.html)"))
 
+#str_extract(resolved_mission_links$url[1],"(?<=\\/)t[0-9,_]{1,30}(?=.html)")
 
 
 scrape_htmls <- 
@@ -97,6 +108,7 @@ xx <- pmap(.l = list(resolved_mission_links$url,
 
 
 
+# mission_url <- list.files(paste0(path,tdy),full.names = T)[1]
 
 get_mission_details <- 
   function(mission_url){
@@ -168,14 +180,20 @@ details <-
       ~ get_mission_details(.x)) 
 
 details %>%
+  bind_rows() 
+  
+cleaned <- 
+  details %>%
   bind_rows() %>% 
-  mutate(id = str_extract(mission_url, "(?<=/)t[0-9]{1,10}(?=_)")) %>% 
+  mutate(id = str_extract(mission_url, "(?<=\\/)t[0-9,_]{1,30}(?=_2021-|_2022-|_2023-)")) %>% 
   left_join(resolved_mission_links,
             by = "id") %>%
   select(mission_name = name,cat,region,
          role,dip_name,suffix,
-         id,url) %>% 
-  write_csv(paste0("inst/extdata/prc_mission_websites/prc_missions_",tdy,".csv"))
+         id,url) 
+  
+  write_csv(cleaned,
+            paste0("inst/extdata/prc_mission_websites/prc_missions_",tdy,".csv"))
 
 
 #############
@@ -184,11 +202,18 @@ yesterday <- tdy - lubridate::days(1)
 
 df1 <- read.csv(paste0("inst/extdata/prc_mission_websites/prc_missions_",yesterday,".csv"))
 df2 <- read.csv(paste0("inst/extdata/prc_mission_websites/prc_missions_",tdy,".csv"))
+df3 <- read.csv(paste0("inst/extdata/prc_mission_websites/prc_missions_2021-11-22.csv"))
 
+summary <- arsenal::comparedf(df3,df2, by = "id") %>% summary()
 
-summary <- arsenal::comparedf(df1,df2, by = "id") %>% summary()
-
+summary
 summary$diffs.byvar.table$n %>% sum
+
+merged <- 
+  left_join(df3,df2,
+            by = "mission_name") %>%
+  select(mission_name,
+         noquote(order(colnames(df))))
 
 
 ###############################
