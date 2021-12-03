@@ -32,8 +32,11 @@ embassies <- data.frame(
              "global")
 )
 
-path <- "inst/helper/prc_mission_websites/"
+#path <- "inst/helper/prc_mission_websites/"
+path <- "ms/disinfo/inst/helper/prc_mission_websites/"
 
+#extpath <- "inst/extdata/prc_mission_websites"
+extpath <- "ms/disinfo/inst/extdata/prc_mission_websites/"
 
 
 get_sub_missions <-
@@ -102,7 +105,7 @@ scrape_htmls <-
 
 
 xx <- pmap(.l = list(resolved_mission_links$url,
-               "inst/helper/prc_mission_websites/",
+               path,
                resolved_mission_links$id),
     .f = scrape_htmls) 
 
@@ -193,16 +196,16 @@ cleaned <-
          id,url) 
   
   write_csv(cleaned,
-            paste0("inst/extdata/prc_mission_websites/prc_missions_",tdy,".csv"))
+            paste0(extpath,"/prc_missions_",tdy,".csv"))
 
 
 #############
 
 yesterday <- tdy - lubridate::days(1)
 
-df1 <- read.csv(paste0("inst/extdata/prc_mission_websites/prc_missions_",yesterday,".csv"))
-df2 <- read.csv(paste0("inst/extdata/prc_mission_websites/prc_missions_",tdy,".csv"))
-df3 <- read.csv(paste0("inst/extdata/prc_mission_websites/prc_missions_2021-11-22.csv"))
+df1 <- read.csv(paste0(extpath,"/prc_missions_",yesterday,".csv"))
+df2 <- read.csv(paste0(extpath,"/prc_missions_",tdy,".csv"))
+#df3 <- read.csv(paste0(extpath,"/prc_missions_2021-11-22.csv"))
 
 summary <- arsenal::comparedf(df1,df2, by = "id") %>% summary()
 
@@ -225,7 +228,7 @@ summary$diffs.byvar.table$n %>% sum
 
 if((summary$diffs.byvar.table$n %>% sum) > 0){
   
-  creds <- jsonlite::read_json("inst/helper/confidential/email_credentials.json")
+  creds <- jsonlite::read_json("ms/disinfo/inst/helper/confidential/email_credentials.json")
   
   library(emayili)
   library(magrittr)
