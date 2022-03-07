@@ -7,6 +7,14 @@ library(xml2)
 tdy <- lubridate::today()
 #tdy <- "2021-11-12"
 
+path <- "inst/helper/prc_mission_websites/"
+#path <- "ms/disinfo/inst/helper/prc_mission_websites/"
+
+extpath <- "inst/extdata/prc_mission_websites"
+#extpath <- "ms/disinfo/inst/extdata/prc_mission_websites/"
+
+
+
 embassies <- data.frame(
   urls = c(#Embassies
            "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zwjg_665342/2490_665344/2491_665346/",
@@ -31,12 +39,6 @@ embassies <- data.frame(
                    "Europe","North America and Oceania","Latin America"),2),
              "global")
 )
-
-#path <- "inst/helper/prc_mission_websites/"
-path <- "ms/disinfo/inst/helper/prc_mission_websites/"
-
-#extpath <- "inst/extdata/prc_mission_websites"
-extpath <- "ms/disinfo/inst/extdata/prc_mission_websites/"
 
 
 get_sub_missions <-
@@ -202,12 +204,15 @@ cleaned <-
 #############
 
 yesterday <- tdy - lubridate::days(1)
+yesterday <- "2021-12-03"
 
 df1 <- read.csv(paste0(extpath,"/prc_missions_",yesterday,".csv"))
 df2 <- read.csv(paste0(extpath,"/prc_missions_",tdy,".csv"))
-#df3 <- read.csv(paste0(extpath,"/prc_missions_2021-11-22.csv"))
+df3 <- read.csv(paste0(extpath,"/prc_missions_2021-11-22.csv"))
 
 summary <- arsenal::comparedf(df1,df2, by = "id") %>% summary()
+summary <- arsenal::comparedf(df3,df2, by = "id") %>% summary()
+summary <- arsenal::comparedf(df3,df1, by = "id") %>% summary()
 
 summary
 summary$diffs.byvar.table$n %>% sum
@@ -216,12 +221,13 @@ summary$diffs.byvar.table$n %>% sum
 
 # manually inspect differences
 
-# merged <- 
-#   left_join(df3,df2,
-#             by = "mission_name") %>%
-#   select(mission_name,
-#          (order(colnames(.)))) %>% 
-#   filter(dip_name.x != dip_name.y)
+merged <-
+  left_join(df3,df1,
+            by = "mission_name") %>%
+  select(mission_name,
+         (order(colnames(.)))) %>%
+  filter(dip_name.x != dip_name.y) %>% 
+  set_names(colnames(.) %>% str_replace(".x","_old")%>% str_replace(".y","_new"))
 
 
 ###############################
