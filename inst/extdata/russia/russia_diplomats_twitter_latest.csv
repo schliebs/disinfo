@@ -178,7 +178,7 @@
 "177","Spain","ES","E","EmbajadaRusaES",NA
 "178","Spain","ES","E","EmbajadaRusaRu",NA
 "179","Spain","ES","E","ruscg_barcelona",NA
-"180","Spain","ES",NA,"RusCG_Bcn_ES","consulate Barcelona"
+"180","Spain","ES","C","RusCG_Bcn_ES","consulate Barcelona"
 "181","Sri Lanka","LK","E","RusEmbSriLanka",NA
 "182","Sudan","SD","E","Rus_Emb_Sudan",NA
 "183","Sweden","SE","E","RusEmbSwe",NA
@@ -228,96 +228,95 @@
 "227","Zimbabwe","ZW","E","RuEmbZimbabwe",NA
 "228","Abkhazia",NA,"E","RusembApsny",NA
 "229","South Ossetia",NA,"E","rusembrso",NA
-"230","MFA English",NA,NA,"mfa_russia",NA
-"231","MFA press",NA,NA,"pc_mid_rf",NA
-"232","MFA Spanish",NA,NA,"mae_rusia",NA
-"233","MFA Russian",NA,NA,"MID_RF",NA
-"234","MFA Arabic",NA,NA,"russia_ar",NA
-"235","MFA Crimea",NA,NA,"PMSimferopol",NA
-"236","MFA Yekarerinburg",NA,NA,"Ekatmid",NA
-"237","MFA Kaliningrad",NA,NA,"mid_kaliningrad",NA
-"238","MFA Rostov",NA,NA,"mid_rnd",NA
-"239","MFA Krasnodar",NA,NA,"mid_krasnodar",NA
-"240","MFA Belogrod",NA,NA,"mid_voronezh",NA
-"241","MFA murmansk",NA,NA,"midmurm",NA
-"242","MFA vody",NA,NA,"mwmidru",NA
-"243","MFA ufa",NA,NA,"mid_ufa",NA
-"244","MFA barnaul",NA,NA,"midbarnaul",NA
-"245","MFA Ulan ude",NA,NA,"mid_rf_ulanude",NA
-"246","MFA Novosibirsk",NA,NA,"midnovosibirsk",NA
-"247","MFA Orenburg",NA,NA,"mid_orenburg",NA
-"248","MFA Omsk",NA,NA,"mid_omsk",NA
-"249","MFA St Petersburg",NA,NA,"mid_spb",NA
-"250","MFA Kazan",NA,NA,"kazanmid",NA
-"251","MFA Travel",NA,NA,"mid_travel",NA
-"252","MFA Arkhangelsk",NA,NA,"midarkh",NA
-"253","MFA Astrakhan",NA,NA,"mid_astrakhan",NA
-"254","MFA Blagoveshchensk",NA,NA,"mid_amur",NA
-"255","MFA Vladivostok",NA,NA,"mid_vladivostok",NA
-"256","MFA Kamchatsy",NA,NA,"mid_kamchatka",NA
-"257","MFA Petrozavodsk",NA,NA,"midpetrozavodsk",NA
-"258","MFA Smolensk",NA,NA,"midsmol",NA
-"259","MFA YS",NA,NA,"mid_ys",NA
-"260","MFA Samara",NA,NA,"mid_samara",NA
-"261","MFA Saratov",NA,NA,"mid_saratov",NA
-"262","MFA Pskov",NA,NA,"pskovmid",NA
-"263","MFA sochi",NA,NA,"midsochi",NA
-"264","MFA Yakutsk",NA,NA,"mid_yakutsk",NA
-"265","MFA",NA,NA,"MIDKrasnoyarsk",NA
-"266","MFA alania",NA,NA,"unesco_russia",NA
-"267","MFA yoshkar ola",NA,NA,"MID_Yoshkar_Ola",NA
-"268","MFA khabarovsk",NA,NA,"mid_khabarovsk",NA
-"269","MFA cheboksary",NA,NA,"MID_Cheboksary",NA
-"270","MFA Izhevsk",NA,NA,"MID_Izhevsk",NA
-"271","Russia",NA,NA,"Russia",NA
-"272",NA,NA,NA,"MedvedevRussiaE",NA
-"273",NA,NA,NA,"mod_russia",NA
-"274",NA,NA,NA,"GovernmentRF",NA
-"275",NA,NA,NA,"pravitelstvo_rf",NA
-"276",NA,NA,NA,"KremlinRussia_E",NA
-"277",NA,NA,NA,"KremlinRussia",NA
-"278","Interior Ministry",NA,NA,"mvd_official",NA
-"279","ASEAN",NA,NA,"aseanrussia",NA
-"280","EU",NA,NA,"rusmission_eu",NA
-"281","UN",NA,NA,"russiaun",NA
-"282","UN",NA,NA,"Dpol_un","First Deputy Permanent Representative of Russia to the UN"
-"283","UN Geneva",NA,NA,"A__Alimov","Russian Deputy Perm Rep to UN Office in Geneva"
-"284","UN Geneva",NA,NA,"mission_russian","Mission of Russia to UN Office and other international organizations in Geneva"
-"285","UN Geneva",NA,NA,"ggatilov","PermRep Geneva"
-"286","UN Vienna",NA,NA,"mission_rf",NA
+"230","MFA English",NA,"G","mfa_russia",NA
+"231","MFA press",NA,"G","pc_mid_rf",NA
+"232","MFA Spanish",NA,"G","mae_rusia",NA
+"233","MFA Russian",NA,"G","MID_RF",NA
+"234","MFA Arabic",NA,"G","russia_ar",NA
+"235","MFA Crimea",NA,"G","PMSimferopol",NA
+"236","MFA Yekarerinburg",NA,"G","Ekatmid",NA
+"237","MFA Kaliningrad",NA,"G","mid_kaliningrad",NA
+"238","MFA Rostov",NA,"G","mid_rnd",NA
+"239","MFA Krasnodar",NA,"G","mid_krasnodar",NA
+"240","MFA Belogrod",NA,"G","mid_voronezh",NA
+"241","MFA murmansk",NA,"G","midmurm",NA
+"242","MFA vody",NA,"G","mwmidru",NA
+"243","MFA ufa",NA,"G","mid_ufa",NA
+"244","MFA barnaul",NA,"G","midbarnaul",NA
+"245","MFA Ulan ude",NA,"G","mid_rf_ulanude",NA
+"246","MFA Novosibirsk",NA,"G","midnovosibirsk",NA
+"247","MFA Orenburg",NA,"G","mid_orenburg",NA
+"248","MFA Omsk",NA,"G","mid_omsk",NA
+"249","MFA St Petersburg",NA,"G","mid_spb",NA
+"250","MFA Kazan",NA,"G","kazanmid",NA
+"251","MFA Travel",NA,"G","mid_travel",NA
+"252","MFA Arkhangelsk",NA,"G","midarkh",NA
+"253","MFA Astrakhan",NA,"G","mid_astrakhan",NA
+"254","MFA Blagoveshchensk",NA,"G","mid_amur",NA
+"255","MFA Vladivostok",NA,"G","mid_vladivostok",NA
+"256","MFA Kamchatsy",NA,"G","mid_kamchatka",NA
+"257","MFA Petrozavodsk",NA,"G","midpetrozavodsk",NA
+"258","MFA Smolensk",NA,"G","midsmol",NA
+"259","MFA YS",NA,"G","mid_ys",NA
+"260","MFA Samara",NA,"G","mid_samara",NA
+"261","MFA Saratov",NA,"G","mid_saratov",NA
+"262","MFA Pskov",NA,"G","pskovmid",NA
+"263","MFA sochi",NA,"G","midsochi",NA
+"264","MFA Yakutsk",NA,"G","mid_yakutsk",NA
+"265","MFA",NA,"G","MIDKrasnoyarsk",NA
+"266","MFA alania",NA,"G","unesco_russia",NA
+"267","MFA yoshkar ola",NA,"G","MID_Yoshkar_Ola",NA
+"268","MFA khabarovsk",NA,"G","mid_khabarovsk",NA
+"269","MFA cheboksary",NA,"G","MID_Cheboksary",NA
+"270","MFA Izhevsk",NA,"G","MID_Izhevsk",NA
+"271","Russia",NA,"G","Russia",NA
+"272",NA,NA,"G","MedvedevRussiaE",NA
+"273","Ministry of Defense",NA,"G","mod_russia",NA
+"274",NA,NA,"G","GovernmentRF",NA
+"275",NA,NA,"G","pravitelstvo_rf",NA
+"276","Kremlin",NA,"G","KremlinRussia_E",NA
+"277","Kremlin",NA,"G","KremlinRussia",NA
+"278","Interior Ministry",NA,"G","mvd_official",NA
+"279","ASEAN",NA,"O","aseanrussia",NA
+"280","EU",NA,"E","rusmission_eu",NA
+"281","UN",NA,"E","russiaun",NA
+"282","UN",NA,"S","Dpol_un","First Deputy Permanent Representative of Russia to the UN"
+"283","UN Geneva",NA,"S","A__Alimov","Russian Deputy Perm Rep to UN Office in Geneva"
+"284","UN Geneva",NA,"E","mission_russian","Mission of Russia to UN Office and other international organizations in Geneva"
+"285","UN Geneva",NA,"A","ggatilov","PermRep Geneva"
+"286","UN Vienna",NA,"E","mission_rf",NA
 "287","Orgs in Vienna",NA,"A","amb_ulyanov",NA
-"288","Arms control vienna",NA,NA,"armscontrol_rus",NA
-"289","Council of Europe",NA,NA,"CoE_Russia",NA
-"290","Council of Europe",NA,NA,"CE_RF",NA
-"291","Russian Mission OIC",NA,NA,"RusMission_OIC",NA
-"292","Nato",NA,NA,"natomission_ru",NA
-"293","OSCE",NA,NA,"rf_osce","Permanent Mission of the Russian Federation to the OSCE"
-"294","Cis Mission",NA,NA,"Cis_Russia",NA
-"295","Arctic",NA,NA,"arcticru",NA
-"296","BRICS",NA,NA,"bricsrussia2020",NA
-"297","MFA director HR",NA,NA,"lukiyantsev","inactive"
-"298","Olympic Com",NA,NA,"olympic_russia",NA
+"288","Arms control vienna",NA,"E","armscontrol_rus",NA
+"289","Council of Europe",NA,"E","CoE_Russia",NA
+"290","Council of Europe",NA,"E","CE_RF",NA
+"291","Russian Mission OIC",NA,"E","RusMission_OIC",NA
+"292","Nato",NA,"E","natomission_ru",NA
+"293","OSCE",NA,"E","rf_osce","Permanent Mission of the Russian Federation to the OSCE"
+"294","Cis Mission",NA,"E","Cis_Russia",NA
+"295","Arctic",NA,"O","arcticru",NA
+"296","BRICS",NA,"O","bricsrussia2020",NA
+"297","MFA director HR",NA,"S","lukiyantsev","inactive"
+"298","Olympic Com",NA,"O","olympic_russia",NA
 "299","Direct investment fund",NA,"O","rdif_press",NA
-"300","export center",NA,NA,"rusexport_eng",NA
-"301","rosatom",NA,NA,"rosatomglobal",NA
-"302","federal agency commonwealth",NA,NA,"rsgov",NA
-"303","export of tech",NA,NA,"rostec_russia",NA
-"304","antidoping agency",NA,NA,"rusada",NA
-"305","barents rep",NA,NA,"russia_in_beac",NA
-"306","st petersburg economic",NA,NA,"spief",NA
-"307","sputnik vaxx",NA,NA,"sputnikvaccine",NA
-"308","duma",NA,NA,"state_duma",NA
-"309","aircraft corp",NA,NA,"uac_russia_eng",NA
-"310","brics 2020",NA,NA,"brics2020_rus",NA
-"311","diplomatic academiy",NA,NA,"dipacademymid",NA
-"312","deputy director MFA europe",NA,NA,"dmitrybalakin",NA
-"313","history dep MFA",NA,NA,"diplohistory",NA
-"314","FAO rome",NA,NA,"rusfao",NA
-"315","military history",NA,NA,"rvio_ru",NA
-"316","head of crimea",NA,NA,"aksenov_sv",NA
-"317","council young diplos",NA,NA,"smdmid",NA
-"318","Rossotrudnitschestwo UK office",NA,NA,"rsgovuk",NA
-"319","unesco",NA,NA,"unesco_russia",NA
-"320","vienna arms control",NA,"S","RusGavrilov",NA
-"321","dep permrep OSCE",NA,"S","MBuyakevich",NA
-"322","health ministry",NA,NA,"MINZDRAV_RF",NA
+"300","export center",NA,"QG","rusexport_eng",NA
+"301","rosatom",NA,"QG","rosatomglobal",NA
+"302","federal agency commonwealth",NA,"QG","rsgov",NA
+"303","export of tech",NA,"QG","rostec_russia",NA
+"304","antidoping agency",NA,"QG","rusada",NA
+"305","barents rep",NA,"G","russia_in_beac",NA
+"306","st petersburg economic",NA,"QG","spief",NA
+"307","sputnik vaxx",NA,"QG","sputnikvaccine",NA
+"308","duma",NA,"G","state_duma",NA
+"309","aircraft corp",NA,"QG","uac_russia_eng",NA
+"310","brics 2020",NA,"G","brics2020_rus",NA
+"311","diplomatic academiy",NA,"QG","dipacademymid",NA
+"312","deputy director MFA europe",NA,"S","dmitrybalakin",NA
+"313","history dep MFA",NA,"G","diplohistory",NA
+"314","FAO rome",NA,"E","rusfao",NA
+"315","military history",NA,"O","rvio_ru",NA
+"316","head of crimea",NA,"G","aksenov_sv",NA
+"317","council young diplos",NA,"QG","smdmid",NA
+"318","Rossotrudnitschestwo UK office",NA,"QG","rsgovuk",NA
+"319","vienna arms control",NA,"S","RusGavrilov",NA
+"320","dep permrep OSCE",NA,"S","MBuyakevich",NA
+"321","health ministry",NA,"G","MINZDRAV_RF",NA
