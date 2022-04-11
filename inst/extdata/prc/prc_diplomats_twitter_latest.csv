@@ -1,355 +1,251 @@
-"","country","ISO2","cat","twitter_handle","started_post","ended_post","last_checked","remarks"
-"1","Afghanistan","AF","A","ChinaEmbKabul",NA,NA,NA,NA
-"2","Åland Islands","AX",NA,NA,NA,NA,NA,NA
-"3","Albania","AL","E","ChinaembassyT",NA,NA,NA,NA
-"4","Algeria","DZ","E","ChinaEmbAlgeria",NA,NA,NA,NA
-"5","American Samoa","AS",NA,NA,NA,NA,NA,NA
-"6","Andorra","AD",NA,NA,NA,NA,NA,NA
-"7","Angola","AO","E","ChinaEmbAngola",NA,NA,NA,NA
-"8","Anguilla","AI",NA,NA,NA,NA,NA,NA
-"9","Antarctica","AQ",NA,NA,NA,NA,NA,NA
-"10","Antigua and Barbuda","AG","E","ChinaEmbAntigua",NA,NA,NA,NA
-"11","Argentina","AR","E","ChinaEmbArg",NA,NA,NA,NA
-"12","Argentina","AR","S","amigoxiaolin",NA,NA,NA,NA
-"13","Armenia","AM",NA,NA,NA,NA,NA,NA
-"14","Aruba","AW",NA,NA,NA,NA,NA,NA
-"15","Australia","AU","C","ChinaConSydney",NA,NA,NA,"consulate sydney"
-"16","Australia","AU","C","ChineseCon_Mel",NA,NA,NA,NA
-"17","Australia","AU","S","Dong_zhihua",NA,NA,NA,"Consul Perth"
-"18","Austria","AT","E","chinaembaustria",NA,NA,NA,NA
-"19","Austria","AT","A","li_xiaosi",NA,NA,NA,NA
-"20","Azerbaijan","AZ",NA,NA,NA,NA,NA,NA
-"21","Bahrain","BH",NA,NA,NA,NA,NA,NA
-"22","Bahamas","BS",NA,NA,NA,NA,NA,NA
-"23","Bangladesh","BD",NA,NA,NA,NA,NA,NA
-"24","Barbados","BB","A","YXiusheng",NA,NA,NA,NA
-"25","Belarus","BY","E","ZhongBai2020",NA,NA,NA,NA
-"26","Belgium","BE","A","ChinaAmbBelgium",NA,NA,NA,NA
-"27","Belize","BZ",NA,NA,NA,NA,NA,NA
-"28","Benin","BJ",NA,NA,NA,NA,NA,NA
-"29","Bermuda","BM",NA,NA,NA,NA,NA,NA
-"30","Bhutan","BT",NA,NA,NA,NA,NA,NA
-"31","Bolivia, Plurinational State of","BO","C","ConsuladoCHNSC",NA,NA,NA,"consulate"
-"32","Bolivia, Plurinational State of","BO","C","WangJialei4",NA,NA,NA,"consul"
-"33","Bonaire, Sint Eustatius and Saba","BQ",NA,NA,NA,NA,NA,NA
-"34","Bosnia and Herzegovina","BA",NA,NA,NA,NA,NA,NA
-"35","Bouvet Island","BV",NA,NA,NA,NA,NA,NA
-"36","Brazil","BR","A","WanmingYang",NA,NA,NA,NA
-"37","Brazil","BR","E","EmbaixadaChina",NA,NA,NA,NA
-"38","Brazil","BR","C","ConsulChinaRJ",NA,NA,NA,"Consulate Rio"
-"39","Brazil","BR","C","CGChinaSP",NA,NA,NA,"joined june 20"
-"40","British Indian Ocean Territory","IO",NA,NA,NA,NA,NA,NA
-"41","Brunei Darussalam","BN",NA,NA,NA,NA,NA,NA
-"42","Bulgaria","BG","A","AmbDongXiaojun",NA,NA,NA,"joined May 20"
-"43","Burkina Faso","BF",NA,NA,NA,NA,NA,NA
-"44","Burundi","BI","E","AmbChineBurundi",NA,NA,NA,NA
-"45","Cambodia","KH",NA,NA,NA,NA,NA,NA
-"46","Cameroon","CM","E","AmbChineCmr",NA,NA,NA,NA
-"47","Canada","CA","E","ChinaEmbOttawa",NA,NA,NA,NA
-"48","Canada","CA","C","ChinaCGCalgary",NA,NA,NA,"Consulate Calgary"
-"49","Canada","CA","C","ChinainVan",NA,NA,NA,NA
-"50","Canada","CA","C","ChinaCGMTL",NA,NA,NA,NA
-"51","Cape Verde","CV",NA,NA,NA,NA,NA,NA
-"52","Cayman Islands","KY",NA,NA,NA,NA,NA,NA
-"53","Central African Republic","CF",NA,NA,NA,NA,NA,NA
-"54","Chad","TD","E","ambchinetchad",NA,NA,NA,NA
-"55","Chile","CL","E","ChinaEmbajada",NA,NA,NA,"check"
-"56","China","CN",NA,NA,NA,NA,NA,NA
-"57","Christmas Island","CX",NA,NA,NA,NA,NA,NA
-"58","Cocos (Keeling) Islands","CC",NA,NA,NA,NA,NA,NA
-"59","Colombia","CO","E","china_embajada",NA,NA,NA,"check"
-"60","Comoros","KM",NA,NA,NA,NA,NA,NA
-"61","Congo","CG","E","chinaembcongobz",NA,NA,NA,"joined april 20"
-"62","Congo, the Democratic Republic of the","CD","E","AmbCHINEenRDC",NA,NA,NA,NA
-"63","Congo, the Democratic Republic of the","CD","A","Amb_ZhuJing",NA,NA,NA,NA
-"64","Cook Islands","CK",NA,NA,NA,NA,NA,NA
-"65","Costa Rica","CR",NA,NA,NA,NA,NA,NA
-"66","Côte d'Ivoire","CI",NA,NA,NA,NA,NA,NA
-"67","Croatia","HR","A","ErwenXu",NA,NA,NA,"new"
-"68","Cuba","CU","E","EmbChinaCuba",NA,NA,NA,"check"
-"69","Cuba","CU","S","yiwen_zh",NA,NA,NA,NA
-"70","Curaçao","CW",NA,NA,NA,NA,NA,NA
-"71","Cyprus","CY","A","AmbassadorLiu",2020-11-02,NA,NA,NA
-"72","Czech Republic","CZ","E","ChineseEmbinCZ",NA,NA,NA,"check"
-"73","Czech Republic","CZ","E","prcembassyprg",NA,NA,NA,NA
-"74","Denmark","DK","E","ChinaInDenmark",NA,NA,NA,NA
-"75","Djibouti","DJ","A","ChineAmbDjibout",NA,NA,NA,"check"
-"76","Dominica","DM",NA,NA,NA,NA,NA,NA
-"77","Dominican Republic","DO","E","ChinaEmbajadaRD",NA,NA,NA,NA
-"78","Dominican Republic","DO","A","EmbZhangRun",NA,NA,NA,NA
-"79","Dominican Republic","DO","S","luisxu9",NA,NA,NA,NA
-"80","Ecuador","EC","E","EmbajadaChinaEc",NA,NA,NA,NA
-"81","Egypt","EG","A","AmbLiaoLiqiang",NA,NA,NA,NA
-"82","Egypt","EG","S","CHN_EGY",NA,NA,NA,"joined june 20"
-"83","El Salvador","SV","E","EmbajadaChinaSV",NA,NA,NA,"#"
-"84","El Salvador","SV","A","oujianhong",NA,NA,NA,NA
-"85","Equatorial Guinea","GQ","E","EmbChinaGE",NA,NA,NA,"check"
-"86","Eritrea","ER",NA,NA,NA,NA,NA,NA
-"87","Estonia","EE",NA,NA,NA,NA,NA,NA
-"88","Ethiopia","ET","E","ChinaEmbAddis",NA,NA,NA,NA
-"89","Falkland Islands (Malvinas)","FK",NA,NA,NA,NA,NA,NA
-"90","Faroe Islands","FO",NA,NA,NA,NA,NA,NA
-"91","Fiji","FJ","E","ChineseEmb_FJ",NA,NA,NA,NA
-"92","Finland","FI","E","ChinaEmbFinland",NA,NA,NA,NA
-"93","France","FR","E","AmbassadeChine",NA,NA,NA,NA
-"94","France","FR","C","consulat_de",NA,NA,NA,"Consulate Strasbourg"
-"95","France","FR","C","China_Lyon",NA,NA,NA,"Consulate Lyon"
-"96","French Guiana","GF",NA,NA,NA,NA,NA,NA
-"97","French Polynesia","PF",NA,NA,NA,NA,NA,NA
-"98","French Southern Territories","TF",NA,NA,NA,NA,NA,NA
-"99","Gabon","GA",NA,NA,NA,NA,NA,NA
-"100","Gambia","GM",NA,NA,NA,NA,NA,NA
-"101","Georgia","GE",NA,NA,NA,NA,NA,NA
-"102","Germany","DE","E","ChinaEmbGermany",NA,NA,NA,NA
-"103","Ghana","GH",NA,NA,NA,NA,NA,NA
-"104","Ghana","GH","E","ChinaEmbinGH",NA,NA,NA,NA
-"105","Gibraltar","GI",NA,NA,NA,NA,NA,NA
-"106","Greece","GR","E","Chinaemb_Hellas",NA,NA,NA,"joined july 20"
-"107","Greenland","GL",NA,NA,NA,NA,NA,NA
-"108","Grenada","GD","E","ChinaEmbGrenada",NA,NA,NA,NA
-"109","Grenada","GD","A","DrZhaoyongchen",NA,NA,NA,NA
-"110","Guadeloupe","GP",NA,NA,NA,NA,NA,NA
-"111","Guam","GU",NA,NA,NA,NA,NA,NA
-"112","Guatemala","GT",NA,NA,NA,NA,NA,NA
-"113","Guernsey","GG",NA,NA,NA,NA,NA,NA
-"114","Guinea","GN","E","chine_guinee",NA,NA,NA,NA
-"115","Guinea-Bissau","GW",NA,NA,NA,NA,NA,NA
-"116","Guyana","GY",NA,NA,NA,NA,NA,NA
-"117","Haiti","HT",NA,NA,NA,NA,NA,NA
-"118","Heard Island and McDonald Islands","HM",NA,NA,NA,NA,NA,NA
-"119","Holy See (Vatican City State)","VA",NA,NA,NA,NA,NA,NA
-"120","Honduras","HN",NA,NA,NA,NA,NA,NA
-"121","Hong Kong","HK",NA,NA,NA,NA,NA,NA
-"122","Hungary","HU","E","ChineseEmbinHU",NA,NA,NA,NA
-"123","Iceland","IS",NA,NA,NA,NA,NA,NA
-"124","India","IN","A","China_Amb_India",NA,NA,NA,NA
-"125","India","IN","C","ZhaLiyou",NA,NA,NA,"Consul Kalkutta"
-"126","India","IN","S","ChinaSpox_India",NA,NA,NA,"Spokesperson"
-"127","Indonesia","ID",NA,NA,NA,NA,NA,NA
-"128","Iran, Islamic Republic of","IR","A","AmbChangHua",NA,NA,NA,NA
-"129","Iraq","IQ","E","ChinaIraq",NA,NA,NA,NA
-"130","Ireland","IE","E","ChinaEmbIreland",NA,NA,NA,NA
-"131","Isle of Man","IM",NA,NA,NA,NA,NA,NA
-"132","Israel","IL",NA,NA,NA,NA,NA,NA
-"133","Italy","IT","E","AmbCina",NA,NA,NA,NA
-"134","Jamaica","JM",NA,NA,NA,NA,NA,NA
-"135","Japan","JP","E","ChnEmbassy_jp",NA,NA,NA,NA
-"136","Japan","JP","C","ChnConsul_osaka",NA,NA,NA,"Consulate Osaka"
-"137","Japan","JP","C","ChnConsulateNgt",NA,NA,NA,"Consulate Niigata"
-"138","Japan","JP","C","ChnConsulateNgo",NA,NA,NA,"Consulate Nagoya"
-"139","Japan","JP","C","ChnConsulateFuk",NA,NA,NA,"Consulate Fukoka"
-"140","Jersey","JE",NA,NA,NA,NA,NA,NA
-"141","Jordan","JO","E","ChineseembassyJ",NA,NA,NA,NA
-"142","Kazakhstan","KZ","E","ChinaEmbKazakh",NA,NA,NA,NA
-"143","Kenya","KE","E","ChineseEmbKenya",NA,NA,NA,NA
-"144","Kiribati","KI",NA,NA,NA,NA,NA,NA
-"145","Korea, Democratic People's Republic of","KP",NA,NA,NA,NA,NA,NA
-"146","Korea, Republic of","KR","C","jejuZLG",NA,NA,NA,"Consulate Jeju"
-"147","Kuwait","KW","E","ChinaEmbKuwait",NA,NA,NA,NA
-"148","Kyrgyzstan","KG",NA,NA,NA,NA,NA,NA
-"149","Lao People's Democratic Republic","LA",NA,NA,NA,NA,NA,NA
-"150","Latvia","LV",NA,NA,NA,NA,NA,NA
-"151","Lebanon","LB","S","zhuxianca",NA,NA,NA,NA
-"152","Lebanon","LB","A","ChinainLebanon",NA,NA,NA,NA
-"153","Lebanon","LB","S","CaoYi_MFA",NA,NA,NA,NA
-"154","Lesotho","LS","A","AmbassadorLei",NA,NA,NA,NA
-"155","Lesotho","LS","S","MGuoliang",NA,NA,NA,NA
-"156","Lesotho","LS","E","ChinaEmbLesotho",NA,NA,NA,NA
-"157","Liberia","LR","E","ChineseLiberia",NA,NA,NA,NA
-"158","Libya","LY",NA,NA,NA,NA,NA,NA
-"159","Liechtenstein","LI",NA,NA,NA,NA,NA,NA
-"160","Luxembourg","LU",NA,NA,NA,NA,NA,NA
-"161","Macao","MO",NA,NA,NA,NA,NA,NA
-"162","Macedonia, the Former Yugoslav Republic of","MK",NA,NA,NA,NA,NA,NA
-"163","Madagascar","MG",NA,NA,NA,NA,NA,NA
-"164","Malawi","MW","A","LiuHongyang4",NA,NA,NA,NA
-"165","Malawi","MW","E","ChinaEmbassy_MW",NA,NA,NA,NA
-"166","Malaysia","MY",NA,NA,NA,NA,NA,NA
-"167","Mali","ML","E","Chine_au_Mali",NA,NA,NA,NA
-"168","Mali","ML","A","LiyingZHU1",NA,NA,NA,NA
-"169","Mali","ML","E","ChinaEmbMalta",NA,NA,NA,NA
-"170","Malta","MT","A","YDunhai",NA,NA,NA,NA
-"171","Marshall Islands","MH",NA,NA,NA,NA,NA,NA
-"172","Martinique","MQ",NA,NA,NA,NA,NA,NA
-"173","Mauritania","MR","E","ChinaEmbinMR",NA,NA,NA,NA
-"174","Mauritius","MU",NA,NA,NA,NA,NA,NA
-"175","Mayotte","YT",NA,NA,NA,NA,NA,NA
-"176","Mexico","MX","E","EmbChinaMex",NA,NA,NA,NA
-"177","Micronesia, Federated States of","FM",NA,NA,NA,NA,NA,NA
-"178","Moldova, Republic of","MD",NA,NA,NA,NA,NA,NA
-"179","Monaco","MC",NA,NA,NA,NA,NA,NA
-"180","Mongolia","MN",NA,NA,NA,NA,NA,NA
-"181","Montenegro","ME","E","ChineseEmbinMNE",NA,NA,NA,NA
-"182","Montserrat","MS",NA,NA,NA,NA,NA,NA
-"183","Mozambique","MZ",NA,NA,NA,NA,NA,NA
-"184","Myanmar","MM",NA,NA,NA,NA,NA,NA
-"185","Namibia",NA,"A","Amb_Yiming",NA,NA,NA,NA
-"186","Nauru","NR",NA,NA,NA,NA,NA,NA
-"187","Nepal","NP","A","PRCAmbNepal",NA,NA,NA,NA
-"188","Netherlands","NL","S","RibiaoChen",NA,NA,NA,NA
-"189","Netherlands","NL","S","LiuYanCHN",NA,NA,NA,NA
-"190","Netherlands","NL","A","PRCAmbNL",NA,NA,NA,NA
-"191","Netherlands","NL","A","ChinaAmbNL",NA,NA,NA,"new since Dec 2020"
-"192","Netherlands","NL","E","ChinaEmbNL",NA,NA,NA,"joined june 20"
-"193","New Caledonia","NC",NA,NA,NA,NA,NA,NA
-"194","New Zealand","NZ",NA,NA,NA,NA,NA,NA
-"195","Nicaragua","NI",NA,NA,NA,NA,NA,NA
-"196","Niger","NE",NA,NA,NA,NA,NA,NA
-"197","Nigeria","NG","E","china_emb_ng",NA,NA,NA,NA
-"198","Niue","NU",NA,NA,NA,NA,NA,NA
-"199","Norfolk Island","NF",NA,NA,NA,NA,NA,NA
-"200","Northern Mariana Islands","MP",NA,NA,NA,NA,NA,NA
-"201","Norway","NO",NA,NA,NA,NA,NA,NA
-"202","Oman","OM","E","ChinaEmbOman",NA,NA,NA,NA
-"203","Pakistan","PK","E","CathayPak",NA,NA,NA,NA
-"204","Pakistan","PK","A","AmbNong",NA,NA,NA,NA
-"205","Pakistan","PK","C","CGLi13",NA,NA,NA,NA
-"206","Pakistan","PK","C","libijian2",NA,NA,NA,"Consul Karachi"
-"207","Pakistan","PK","S","WangXianfeng8",NA,NA,NA,"press officer embassy"
-"208","Pakistan","PK","S","zhang_heqing",NA,NA,NA,"consular officer"
-"209","Pakistan","PK","S","JennyinPak",NA,NA,NA,NA
-"210","Pakistan","PK","S","YichuSong",NA,NA,NA,NA
-"211","Pakistan","PK","S","zgzspirit",NA,NA,NA,NA
-"212","Pakistan","PK","S","GuWenliang",NA,NA,NA,NA
-"213","Pakistan","PK","S","PoliteaChen",NA,NA,NA,NA
-"214","Pakistan","PK","S","CuplqwbmfaWenbo",NA,NA,NA,NA
-"215","Palau","PW",NA,NA,NA,NA,NA,NA
-"216","Palestine, State of","PS",NA,NA,NA,NA,NA,NA
-"217","Panama","PA","A","weiasecas",NA,NA,NA,NA
-"218","Panama","PA","S","liuboleo2",NA,NA,NA,"Deputy Chief"
-"219","Panama","PA","S","juliojiangwei",NA,NA,NA,"Spokesperson"
-"220","Panama","PA","S","LiuChan14790671",NA,NA,NA,NA
-"221","Panama","PA","S","WangJianPaco",NA,NA,NA,"Economic Counsellor"
-"222","Panama","PA","S","China_Panama",NA,NA,NA,"Agregado Comerciak"
-"223","Papua New Guinea","PG","E","ChineseEmb_PNG",NA,NA,NA,NA
-"224","Paraguay","PY",NA,NA,NA,NA,NA,NA
-"225","Peru","PE","E","ChinaEmbPeru",NA,NA,NA,NA
-"226","Philippines","PH","E","Chinaembmanila",NA,NA,NA,NA
-"227","Pitcairn","PN",NA,NA,NA,NA,NA,NA
-"228","Poland","PL","A","AmbLiuGuangYuan",NA,NA,NA,NA
-"229","Poland","PL","E","ChinaEmbPoland",NA,NA,NA,NA
-"230","Portugal","PT",NA,NA,NA,NA,NA,NA
-"231","Puerto Rico","PR",NA,NA,NA,NA,NA,NA
-"232","Qatar","QA","A","AmbZhouJian",NA,NA,NA,NA
-"233","Réunion","RE",NA,NA,NA,NA,NA,NA
-"234","Romania","RO",NA,NA,NA,NA,NA,NA
-"235","Russian Federation","RU","E","ChineseEmbinRus",NA,NA,NA,NA
-"236","Rwanda","RW","S","HudsonWang1",NA,NA,NA,NA
-"237","Saint Barthélemy","BL",NA,NA,NA,NA,NA,NA
-"238","Saint Helena, Ascension and Tristan da Cunha","SH",NA,NA,NA,NA,NA,NA
-"239","Saint Kitts and Nevis","KN",NA,NA,NA,NA,NA,NA
-"240","Saint Lucia","LC",NA,NA,NA,NA,NA,NA
-"241","Saint Martin (French part)","MF",NA,NA,NA,NA,NA,NA
-"242","Saint Pierre and Miquelon","PM",NA,NA,NA,NA,NA,NA
-"243","Saint Vincent and the Grenadines","VC",NA,NA,NA,NA,NA,NA
-"244","Samoa","WS","E","chinaandsamoa",NA,NA,NA,NA
-"245","San Marino","SM",NA,NA,NA,NA,NA,NA
-"246","Sao Tome and Principe","ST",NA,NA,NA,NA,NA,NA
-"247","Saudi Arabia","SA","E","ChinaEmbKSA",NA,NA,NA,NA
-"248","Saudi Arabia","SA","A","AmbChenWeiQing",NA,NA,NA,NA
-"249","Senegal","SN","A","chineambassade",NA,NA,NA,NA
-"250","Serbia","RS","A","AmbChenBo",NA,NA,NA,NA
-"251","Serbia","RS","E","EmbChina_RS",NA,NA,NA,NA
-"252","Seychelles","SC",NA,NA,NA,NA,NA,NA
-"253","Sierra Leone","SL",NA,NA,NA,NA,NA,NA
-"254","Singapore","SG",NA,NA,NA,NA,NA,NA
-"255","Sint Maarten (Dutch part)","SX",NA,NA,NA,NA,NA,NA
-"256","Slovakia","SK","E","ChinaEmbSVK",NA,NA,NA,NA
-"257","Slovenia","SI","E","ChinaEmSlovenia",NA,NA,NA,NA
-"258","Solomon Islands","SB",NA,NA,NA,NA,NA,NA
-"259","Somalia","SO","E","ChineseSomalia",NA,NA,NA,NA
-"260","Somalia","SO","A","AmbSomQinJian",NA,NA,NA,NA
-"261","South Africa","ZA","C","ChnConsulateJhb",NA,NA,NA,"Consulate Johannisburg"
-"262","South Africa","ZA","C","CGCHINA_CPT",NA,NA,NA,"Consulate Capetown"
-"263","South Africa","ZA","S","durbandq",NA,NA,NA,NA
-"264","South Georgia and the South Sandwich Islands","GS",NA,NA,NA,NA,NA,NA
-"265","South Sudan","SS",NA,NA,NA,NA,NA,NA
-"266","Spain","ES","E","ChinaEmbEsp",NA,NA,NA,NA
-"267","Spain","ES","S","YaoFei9",NA,NA,NA,"Counsellor"
-"268","Spain","ES","C","ConsulChinaBcn",NA,NA,NA,"Consulate Barcelona"
-"269","Sri Lanka","LK","E","ChinaEmbSL",NA,NA,NA,NA
-"270","Sudan","SD","E","CHNembinSudan",NA,NA,NA,NA
-"271","Suriname","SR","E","CHNEmbSuriname",NA,NA,NA,NA
-"272","Suriname","SR","A","AmbLiuQuan",NA,NA,NA,NA
-"273","Svalbard and Jan Mayen","SJ",NA,NA,NA,NA,NA,NA
-"274","Swaziland","SZ",NA,NA,NA,NA,NA,NA
-"275","Sweden","SE",NA,NA,NA,NA,NA,NA
-"276","Switzerland","CH",NA,NA,NA,NA,NA,NA
-"277","Switzerland","CH","S","Dr_ZhaoQinghua",NA,NA,NA,"Consul Zurich"
-"278","Syrian Arab Republic","SY","A","AmbFengBiao",NA,NA,NA,NA
-"279","Taiwan, Province of China","TW",NA,NA,NA,NA,NA,NA
-"280","Tajikistan","TJ","E","chinese_tjk",NA,NA,NA,NA
-"281","Tajikistan","TJ","A","liubintjk",NA,NA,NA,NA
-"282","Tanzania, United Republic of","TZ","E","ChineseEmbTZ",NA,NA,NA,NA
-"283","Thailand","TH","A","chineseembassy1",NA,NA,NA,NA
-"284","Timor-Leste","TL",NA,NA,NA,NA,NA,NA
-"285","Togo","TG",NA,NA,NA,NA,NA,NA
-"286","Tokelau","TK",NA,NA,NA,NA,NA,NA
-"287","Tonga","TO","E","embassy_chinese",NA,NA,NA,NA
-"288","Trinidad and Tobago","TT","E","ChineseEmbinTT",NA,NA,NA,NA
-"289","Trinidad and Tobago","TT","A","AmbFangQiu",NA,NA,NA,NA
-"290","Tunisia","TN",NA,NA,NA,NA,NA,NA
-"291","Turkey","TR","E","ChinaEmbTurkey",NA,NA,NA,NA
-"292","Turkey","TR","C","chinaconsulist",NA,NA,NA,NA
-"293","Turkmenistan","TM",NA,NA,NA,NA,NA,NA
-"294","Turks and Caicos Islands","TC",NA,NA,NA,NA,NA,NA
-"295","Tuvalu","TV",NA,NA,NA,NA,NA,NA
-"296","Uganda","UG","E","ChineseEmb_Uga",NA,NA,NA,NA
-"297","Uganda","UG","A","ChinaAmbUganda",NA,NA,NA,NA
-"298","Uganda","UG","S","FangYi85320692",NA,NA,NA,"Spokesperson Embassy UG"
-"299","Uganda","UG","S","chenhuixin",NA,NA,NA,"Deputy Ambassador"
-"300","Ukraine","UA","E","China_Ukraine_",NA,NA,NA,NA
-"301","United Arab Emirates","AE","C","CGPRCinDubai",NA,NA,NA,"Consulate Dubai"
-"302","United Kingdom","GB","E","ChineseEmbinUK",NA,NA,NA,NA
-"303","United Kingdom","GB","A","Ambzhengzeguang",2021-06-01,NA,NA,NA
-"304","United Kingdom","GB","S","MahuiChina",NA,NA,NA,"minister"
-"305","United Kingdom","GB","C","CGMeifangZhang",NA,NA,NA,NA
-"306","United Kingdom","GB","C","CCGBelfast",NA,NA,NA,NA
-"307","United Kingdom","GB","C","chinacgedi",NA,NA,NA,NA
-"308","United States","US","E","ChineseEmbinUS",NA,NA,NA,NA
-"309","United States","US","A","AmbCuiTiankai",NA,NA,NA,NA
-"310","United States","US","S","CGZhangPingLA",NA,NA,NA,"Consul LA"
-"311","United States","US","C","ChinaConsulate",NA,NA,NA,"Consulate Chicago"
-"312","United States","US","C","ConsulateSan",NA,NA,NA,NA
-"313","United States","US","C","WDonghua",NA,NA,NA,NA
-"314","United States Minor Outlying Islands","UM",NA,NA,NA,NA,NA,NA
-"315","Uruguay","UY",NA,NA,NA,NA,NA,NA
-"316","Uzbekistan","UZ",NA,NA,NA,NA,NA,NA
-"317","Vanuatu","VU",NA,NA,NA,NA,NA,NA
-"318","Venezuela, Bolivarian Republic of","VE","A","Li_Baorong",NA,NA,NA,NA
-"319","Venezuela, Bolivarian Republic of","VE","E","Emb_ChinaVen",NA,NA,NA,NA
-"320","Viet Nam","VN",NA,NA,NA,NA,NA,NA
-"321","Virgin Islands, British","VG",NA,NA,NA,NA,NA,NA
-"322","Virgin Islands, U.S.","VI",NA,NA,NA,NA,NA,NA
-"323","Wallis and Futuna","WF",NA,NA,NA,NA,NA,NA
-"324","Western Sahara","EH",NA,NA,NA,NA,NA,NA
-"325","Yemen","YE","E","ChineseEmbtoYEM",NA,NA,NA,NA
-"326","Zambia","ZM",NA,NA,NA,NA,NA,NA
-"327","Zimbabwe","ZW","E","ChineseZimbabwe",NA,NA,NA,NA
-"328","Zimbabwe","ZW","A","China_Amb_Zim",NA,NA,NA,NA
-"329","Zimbabwe","ZW","S","zhaobaogang2011",NA,NA,NA,"Deputy Ambassador"
-"330","Zimbabwe","ZW","C","salahzhang",NA,NA,NA,"C"
-"331","CIDCA","OTH","B","cidcaofficial",NA,NA,NA,NA
-"332","African Union","OTH","A","Ambassador_Liu",NA,NA,NA,NA
-"333","ASEAN","OTH","E","China2ASEAN",NA,NA,NA,NA
-"334","UN","OTH","E","Chinamission2un",NA,NA,NA,NA
-"335","UN","OTH","A","ChinaAmbUN",NA,NA,NA,NA
-"336","UN Geneva","OTH","A","Amb_ChenXu",NA,NA,NA,NA
-"337","Disarmament","OTH","A","Amb_LiSong",NA,NA,NA,NA
-"338","UN NY","OTH","E","CHN_UN_NY",NA,NA,NA,"added may 20"
-"339","UN Geneva","OTH","E","ChinaMissionGva",NA,NA,NA,NA
-"340","UN Vienna","OTH","E","ChinaMissionVie",NA,NA,NA,NA
-"341","EU","OTH","E","ChinaEUMission",NA,NA,NA,NA
-"342","Spokesperson Geneva","OTH","E","ChnMission",NA,NA,NA,NA
-"343","OPCW","OTH","E","China_OPCW",NA,NA,NA,NA
-"344","China SCIO","OTH","B","chinascio",NA,NA,NA,NA
-"345",NA,"OTH","B","zlj517",NA,NA,NA,NA
-"346",NA,"OTH","B","MFA_China",NA,NA,NA,NA
-"347",NA,"OTH","B","SpokespersonCHN",NA,NA,NA,NA
-"348",NA,"OTH","B","SpokespersonHZM",NA,NA,NA,NA
-"349","Arms Control","OTH","B","FuCong17",NA,NA,NA,NA
-"350","Department of African Affairs MFA","OTH","B","WuPeng_MFAChina",NA,NA,NA,NA
-"351",NA,"OTH","UF","CGCCUSA",NA,NA,NA,NA
-"352",NA,"OTH","UF","ciieonline",NA,NA,NA,NA
-"353","Representative of the Chinese Government on Korean Peninsula Affairs","OTH","A","AmbLiuXiaoMing",2021-04-12,NA,NA,NA
-"354","MFA Info Dep","OTH",NA,"Li_Yang_China",NA,NA,NA,"check"
+"","country","ISO2","cat","twitter_handle","started_post"
+"1","Afghanistan","AF","A","ChinaEmbKabul",NA
+"2","Albania","AL","E","ChinaembassyT",NA
+"3","Algeria","DZ","E","ChinaEmbAlgeria",NA
+"4","Angola","AO","E","ChinaEmbAngola",NA
+"5","Antigua and Barbuda","AG","E","ChinaEmbAntigua",NA
+"6","Argentina","AR","E","ChinaEmbArg",NA
+"7","Argentina","AR","S","amigoxiaolin",NA
+"8","Australia","AU","C","ChinaConSydney",NA
+"9","Australia","AU","C","ChineseCon_Mel",NA
+"10","Australia","AU","S","LongDingbin",NA
+"11","Austria","AT","E","chinaembaustria",NA
+"12","Austria","AT","A","li_xiaosi",NA
+"13","Bahrain","BH","E","ChinaEmbBahrain",NA
+"14","Barbados","BB","A","YXiusheng",NA
+"15","Belarus","BY","E","ZhongBai2020",NA
+"16","Belgium","BE","A","ChinaAmbBelgium",NA
+"17","Bolivia, Plurinational State of","BO","C","ConsuladoCHNSC",NA
+"18","Bolivia, Plurinational State of","BO","C","WangJialei4",NA
+"19","Brazil","BR","A","WanmingYang",NA
+"20","Brazil","BR","E","EmbaixadaChina",NA
+"21","Brazil","BR","C","ConsulChinaRJ",NA
+"22","Brazil","BR","C","CGChinaSP",NA
+"23","Bulgaria","BG","A","AmbDongXiaojun",NA
+"24","Burundi","BI","E","AmbChineBurundi",NA
+"25","Cameroon","CM","E","AmbChineCmr",NA
+"26","Canada","CA","E","ChinaEmbOttawa",NA
+"27","Canada","CA","C","ChinaCGCalgary",NA
+"28","Canada","CA","C","ChinainVan",NA
+"29","Canada","CA","C","ChinaCGMTL",NA
+"30","Chad","TD","E","ambchinetchad",NA
+"31","Chile","CL","E","ChinaEmbajada",NA
+"32","Colombia","CO","E","china_embajada",NA
+"33","Congo","CG","E","chinaembcongobz",NA
+"34","Congo, the Democratic Republic of the","CD","E","AmbCHINEenRDC",NA
+"35","Congo, the Democratic Republic of the","CD","A","Amb_ZhuJing",NA
+"36","Croatia","HR","A","ErwenXu",NA
+"37","Cuba","CU","E","EmbChinaCuba",NA
+"38","Cuba","CU","S","yiwen_zh",NA
+"39","Cyprus","CY","A","AmbassadorLiu","02/11/2020"
+"40","Czech Republic","CZ","E","ChineseEmbinCZ",NA
+"41","Czech Republic","CZ","E","prcembassyprg",NA
+"42","Denmark","DK","E","ChinaInDenmark",NA
+"43","Djibouti","DJ","A","ChineAmbDjibout",NA
+"44","Dominican Republic","DO","E","ChinaEmbajadaRD",NA
+"45","Dominican Republic","DO","A","EmbZhangRun",NA
+"46","Dominican Republic","DO","S","luisxu9",NA
+"47","Ecuador","EC","E","EmbajadaChinaEc",NA
+"48","Egypt","EG","A","AmbLiaoLiqiang",NA
+"49","Egypt","EG","S","CHN_EGY",NA
+"50","El Salvador","SV","E","EmbajadaChinaSV",NA
+"51","El Salvador","SV","A","oujianhong",NA
+"52","Equatorial Guinea","GQ","E","EmbChinaGE",NA
+"53","Eritrea","ER","E","ChinaEmbEritrea",NA
+"54","Estonia","EE","E","ChineseEstonia",NA
+"55","Ethiopia","ET","E","ChinaEmbAddis",NA
+"56","Fiji","FJ","E","ChineseEmb_FJ",NA
+"57","Finland","FI","E","ChinaEmbFinland",NA
+"58","France","FR","E","AmbassadeChine",NA
+"59","France","FR","C","consulat_de",NA
+"60","France","FR","C","China_Lyon",NA
+"61","Germany","DE","E","ChinaEmbGermany",NA
+"62","Germany","DE","C","ChinaCG_Muc",NA
+"63","Germany","DE","C","ChinaCG_Ffm",NA
+"64","Ghana","GH","E","ChinaEmbinGH",NA
+"65","Greece","GR","E","Chinaemb_Hellas",NA
+"66","Grenada","GD","E","ChinaEmbGrenada",NA
+"67","Grenada","GD","A","DrZhaoyongchen",NA
+"68","Guinea","GN","E","chine_guinee",NA
+"69","Hungary","HU","E","ChineseEmbinHU",NA
+"70","India","IN","A","China_Amb_India",NA
+"71","India","IN","C","ZhaLiyou",NA
+"72","India","IN","S","ChinaSpox_India",NA
+"73","India","IN","C","ChineseCGMumbai",NA
+"74","Iran, Islamic Republic of","IR","A","AmbChangHua",NA
+"75","Iraq","IQ","E","ChinaIraq",NA
+"76","Ireland","IE","E","ChinaEmbIreland",NA
+"77","Italy","IT","E","AmbCina",NA
+"78","Italy","IT","A","AmbLiJunhua",NA
+"79","Japan","JP","E","ChnEmbassy_jp",NA
+"80","Japan","JP","C","ChnConsul_osaka",NA
+"81","Japan","JP","C","ChnConsulateNgt",NA
+"82","Japan","JP","C","ChnConsulateNgo",NA
+"83","Japan","JP","C","ChnConsulateFuk",NA
+"84","Japan","JP","CS","FukLyuGuijun",NA
+"85","Japan","JP","CS","xuejianosaka",NA
+"86","Jordan","JO","E","ChineseembassyJ",NA
+"87","Kazakhstan","KZ","E","ChinaEmbKazakh",NA
+"88","Kazakhstan","KZ","C","ChinaConsAlmaty",NA
+"89","Kenya","KE","E","ChineseEmbKenya",NA
+"90","Korea, Republic of","KR","C","jejuZLG",NA
+"91","Kuwait","KW","E","ChinaEmbKuwait",NA
+"92","Lebanon","LB","S","zhuxianca",NA
+"93","Lebanon","LB","A","ChinainLebanon",NA
+"94","Lebanon","LB","S","CaoYi_MFA",NA
+"95","Lesotho","LS","A","AmbassadorLei",NA
+"96","Lesotho","LS","S","MGuoliang",NA
+"97","Lesotho","LS","E","ChinaEmbLesotho",NA
+"98","Liberia","LR","E","ChineseLiberia",NA
+"99","Lithuania","LT","E","in_embassy",NA
+"100","Malawi","MW","A","LiuHongyang4",NA
+"101","Malawi","MW","E","ChinaEmbassy_MW",NA
+"102","Maldives","MV","S","China_Emb_Mdv",NA
+"103","Maldives","MV","A","China_Amb_Mdv",NA
+"104","Maldives","MV","E","ChinaEmbassy_MV",NA
+"105","Mali","ML","E","Chine_au_Mali",NA
+"106","Mali","ML","A","LiyingZHU1",NA
+"107","Mali","ML","E","ChinaEmbMalta",NA
+"108","Malta","MT","A","YDunhai",NA
+"109","Mauritania","MR","E","ChinaEmbinMR",NA
+"110","Mexico","MX","E","EmbChinaMex",NA
+"111","Montenegro","ME","E","ChineseEmbinMNE",NA
+"112","Morocco","MA","E","ChineAmbMaroc",NA
+"113","Namibia",NA,"A","Amb_Yiming",NA
+"114","Namibia",NA,"E","ChinaEmbNamibia",NA
+"115","Nepal","NP","A","PRCAmbNepal",NA
+"116","Netherlands","NL","S","RibiaoChen",NA
+"117","Netherlands","NL","S","LiuYanCHN",NA
+"118","Netherlands","NL","A","PRCAmbNL",NA
+"119","Netherlands","NL","A","ChinaAmbNL",NA
+"120","Netherlands","NL","E","ChinaEmbNL",NA
+"121","New Zealand","NZ","C","ChinaCG_CC",NA
+"122","New Zealand","NZ","S","XiaoYewen",NA
+"123","Nigeria","NG","E","china_emb_ng",NA
+"124","Norway","NO","S","YidingYang_MFA",NA
+"125","Oman","OM","E","ChinaEmbOman",NA
+"126","Pakistan","PK","E","CathayPak",NA
+"127","Pakistan","PK","A","AmbNong",NA
+"128","Pakistan","PK","C","CGLi13",NA
+"129","Pakistan","PK","C","libijian2",NA
+"130","Pakistan","PK","S","WangXianfeng8",NA
+"131","Pakistan","PK","S","zhang_heqing",NA
+"132","Pakistan","PK","S","JennyinPak",NA
+"133","Pakistan","PK","S","YichuSong",NA
+"134","Pakistan","PK","S","zgzspirit",NA
+"135","Pakistan","PK","S","GuWenliang",NA
+"136","Pakistan","PK","S","PoliteaChen",NA
+"137","Pakistan","PK","S","CuplqwbmfaWenbo",NA
+"138","Panama","PA","E","EmbChinaPa",NA
+"139","Panama","PA","A","weiasecas",NA
+"140","Panama","PA","S","liuboleo2",NA
+"141","Panama","PA","S","juliojiangwei",NA
+"142","Panama","PA","S","LiuChan14790671",NA
+"143","Panama","PA","S","WangJianPaco",NA
+"144","Panama","PA","S","Zhang_Xi77",NA
+"145","Panama","PA","S","China_Panama",NA
+"146","Panama","PA","S","wuji_li",NA
+"147","Papua New Guinea","PG","E","ChineseEmb_PNG",NA
+"148","Peru","PE","E","ChinaEmbPeru",NA
+"149","Philippines","PH","E","Chinaembmanila",NA
+"150","Poland","PL","A","AmbLiuGuangYuan",NA
+"151","Poland","PL","E","ChinaEmbPoland",NA
+"152","Portugal","PT","E","ChinaEmbPt",NA
+"153","Qatar","QA","A","AmbZhouJian",NA
+"154","Russian Federation","RU","E","ChineseEmbinRus",NA
+"155","Rwanda","RW","E","ChinaEmbinRW",NA
+"156","Rwanda","RW","S","HudsonWang1",NA
+"157","Samoa","WS","E","chinaandsamoa",NA
+"158","Saudi Arabia","SA","E","ChinaEmbKSA",NA
+"159","Saudi Arabia","SA","A","AmbChenWeiQing",NA
+"160","Saudi Arabia","SA","C","CCGJeddah",NA
+"161","Senegal","SN","A","chineambassade",NA
+"162","Serbia","RS","A","AmbChenBo",NA
+"163","Serbia","RS","E","EmbChina_RS",NA
+"164","Slovakia","SK","E","ChinaEmbSVK",NA
+"165","Slovenia","SI","E","ChinaEmSlovenia",NA
+"166","Somalia","SO","E","ChineseSomalia",NA
+"167","Somalia","SO","A","FeiShengchao",NA
+"168","South Africa","ZA","C","ChnConsulateJhb",NA
+"169","South Africa","ZA","C","CGCHINA_CPT",NA
+"170","South Africa","ZA","C","sa_durban",NA
+"171","South Africa","ZA","S","durbandq",NA
+"172","South Sudan","SS","E","ChinaEmb_Juba",NA
+"173","Spain","ES","E","ChinaEmbEsp",NA
+"174","Spain","ES","S","YaoFei9",NA
+"175","Spain","ES","C","ConsulChinaBcn",NA
+"176","Sri Lanka","LK","E","ChinaEmbSL",NA
+"177","Sudan","SD","E","CHNembinSudan",NA
+"178","Suriname","SR","E","CHNEmbSuriname",NA
+"179","Suriname","SR","A","AmbLiuQuan",NA
+"180","Switzerland","CH","E","ChinaEmbinCH",NA
+"181","Switzerland","CH","S","Dr_ZhaoQinghua",NA
+"182","Syrian Arab Republic","SY","A","AmbFengBiao",NA
+"183","Tajikistan","TJ","E","chinese_tjk",NA
+"184","Tajikistan","TJ","A","liubintjk",NA
+"185","Tanzania, United Republic of","TZ","A","ChenMingjian_CN",NA
+"186","Tanzania, United Republic of","TZ","E","ChineseEmbTZ",NA
+"187","Tanzania, United Republic of","TZ","S","yang_zhiyu1979",NA
+"188","Thailand","TH","A","chineseembassy1",NA
+"189","Tonga","TO","E","embassy_chinese",NA
+"190","Trinidad and Tobago","TT","E","ChineseEmbinTT",NA
+"191","Trinidad and Tobago","TT","A","AmbFangQiu",NA
+"192","Turkey","TR","E","ChinaEmbTurkey",NA
+"193","Turkey","TR","C","chinaconsulist",NA
+"194","Uganda","UG","E","ChineseEmb_Uga",NA
+"195","Uganda","UG","A","PRC_Amb_Uganda",NA
+"196","Uganda","UG","S","FangYi85320692",NA
+"197","Uganda","UG","S","chenhuixin",NA
+"198","Ukraine","UA","E","China_Ukraine_",NA
+"199","United Arab Emirates","AE","C","CGPRCinDubai",NA
+"200","United Kingdom","GB","E","ChineseEmbinUK",NA
+"201","United Kingdom","GB","A","Ambzhengzeguang","01/06/2021"
+"202","United Kingdom","GB","S","MahuiChina",NA
+"203","United Kingdom","GB","C","CGMeifangZhang",NA
+"204","United Kingdom","GB","C","CCGBelfast",NA
+"205","United Kingdom","GB","C","chinacgedi",NA
+"206","United States","US","E","ChineseEmbinUS",NA
+"207","United States","US","A","AmbQinGang",NA
+"208","United States","US","CS","CGZhangPingLA",NA
+"209","United States","US","S","SpoxCHNinUS",NA
+"210","United States","US","C","ChinaConsulate",NA
+"211","United States","US","C","ConsulateSan",NA
+"212","United States","US","C","WDonghua",NA
+"213","United States","US","C","ChinaCG_NYC",NA
+"214","United States","US","CS","CGHuangPingNY",NA
+"215","Uruguay","UY","A","embajadorcn_uy",NA
+"216","Venezuela, Bolivarian Republic of","VE","E","Emb_ChinaVen",NA
+"217","Venezuela, Bolivarian Republic of",NA,"A","EmbChinaVen",NA
+"218","Yemen","YE","E","ChineseEmbtoYEM",NA
+"219","Zimbabwe","ZW","E","ChineseZimbabwe",NA
+"220","Zimbabwe","ZW","A","China_Amb_Zim",NA
+"221","Zimbabwe","ZW","S","zhaobaogang2011",NA
+"222","Zimbabwe","ZW","C","salahzhang",NA
+"223","CIDCA","OTH","B","cidcaofficial",NA
+"224","African Union","OTH","A","Ambassador_Liu",NA
+"225","ASEAN","OTH","E","China2ASEAN",NA
+"226","UN","OTH","E","Chinamission2un",NA
+"227","UN","OTH","A","ChinaAmbUN",NA
+"228","UN Geneva","OTH","A","Amb_ChenXu",NA
+"229","Disarmament","OTH","A","Amb_LiSong",NA
+"230","UN NY","OTH","E","CHN_UN_NY",NA
+"231","UN Geneva","OTH","E","ChinaMissionGva",NA
+"232","UN Vienna","OTH","E","ChinaMissionVie",NA
+"233","EU","OTH","E","ChinaEUMission",NA
+"234","Spokesperson Geneva","OTH","E","ChnMission",NA
+"235","OPCW","OTH","E","China_OPCW",NA
+"236","China SCIO","OTH","B","chinascio",NA
+"237",NA,"OTH","B","zlj517",NA
+"238",NA,"OTH","B","MFA_China",NA
+"239",NA,"OTH","B","SpokespersonCHN",NA
+"240",NA,"OTH","B","SpokespersonHZM",NA
+"241","Arms Control","OTH","B","FuCong17",NA
+"242","Department of African Affairs MFA","OTH","B","WuPeng_MFAChina",NA
+"243",NA,"OTH","UF","CGCCUSA",NA
+"244",NA,"OTH","UF","ciieonline",NA
+"245","Representative of the Chinese Government on Korean Peninsula Affairs","OTH","A","AmbLiuXiaoMing","12/04/2021"
+"246","MFA Info Dep","OTH","B","Li_Yang_China",NA
+"247","Info Dep MFA","OTH","B","DIOC_MFA_China",NA
+"248","Info Dep MFA","OTH","B","XIEYongjun_CHN",NA
+"249","Spec Enjoy AFG","OTH","B","stuartyueh",NA
+"250","Mission to WTO","OTH","O","ChinaMissionWTO",NA
