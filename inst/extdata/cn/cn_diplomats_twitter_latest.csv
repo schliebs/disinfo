@@ -1,0 +1,456 @@
+"","country","ISO2","cat","twitter_handle","remarks","started_post","ended_post","last_checked"
+"1","Afghanistan","AF","E","RusEmbassyKabul",NA,NA,NA,NA
+"2","Afghanistan","AF","C","ruscg_mzs",NA,NA,NA,NA
+"3","Åland Islands","AX",NA,NA,NA,NA,NA,NA
+"4","Albania","AL","E","RussianAlbania",NA,NA,NA,NA
+"5","Algeria","DZ","E","AmbRus_Algerie",NA,NA,NA,NA
+"6","American Samoa","AS",NA,NA,NA,NA,NA,NA
+"7","Andorra","AD",NA,NA,NA,NA,NA,NA
+"8","Angola","AO","E","russembangola4",NA,NA,NA,NA
+"9","Anguilla","AI",NA,NA,NA,NA,NA,NA
+"10","Antarctica","AQ",NA,NA,NA,NA,NA,NA
+"11","Antigua and Barbuda","AG",NA,NA,NA,NA,NA,NA
+"12","Argentina","AR","E","EmbRusiaEnArgEs",NA,NA,NA,NA
+"13","Argentina","AR","E","EmbRusiaEnArgRu",NA,NA,NA,NA
+"14","Armenia","AM","E","rusembassyARM",NA,NA,NA,NA
+"15","Armena","AM","C","GyumriRussia","consulate",NA,NA,NA
+"16","Aruba","AW",NA,NA,NA,NA,NA,NA
+"17","Australia","AU","E","RusEmbAU",NA,NA,NA,NA
+"18","Australia","AU",NA,NA,NA,NA,NA,NA
+"19","Austria","AT","E","RusBotWien",NA,NA,NA,NA
+"20","Austria","AT","C","RusConsSalzburg","consulate Salzburg",NA,NA,NA
+"21","Azerbaijan","AZ","E","embrus_az",NA,NA,NA,NA
+"22","Bahrain","BH","E","RusEmbBAH",NA,NA,NA,NA
+"23","Bahamas","BS",NA,NA,NA,NA,NA,NA
+"24","Bangladesh","BD",NA,NA,NA,NA,NA,NA
+"25","Barbados","BB",NA,NA,NA,NA,NA,NA
+"26","Belarus","BY","E","RusEmbassyMinsk",NA,NA,NA,NA
+"27","Belarus","BY","C","RCNKBrest",NA,NA,NA,NA
+"28","Belgium","BE","E","amrusbel",NA,NA,NA,NA
+"29","Belgium","BE","C","RusconsAntwerp","Consulate Antwerp",NA,NA,NA
+"30","Belize","BZ",NA,NA,NA,NA,NA,NA
+"31","Benin","BJ","E","AmbRusBen","embassy Benin and Togo",NA,NA,NA
+"32","Bermuda","BM",NA,NA,NA,NA,NA,NA
+"33","Bhutan","BT",NA,NA,NA,NA,NA,NA
+"34","Bolivia, Plurinational State of","BO","E","EmbRusBoliviaEs",NA,NA,NA,NA
+"35","Bolivia, Plurinational State of","BO","E","EmbRusBoliviaRu",NA,NA,NA,NA
+"36","Bonaire, Sint Eustatius and Saba","BQ",NA,NA,NA,NA,NA,NA
+"37","Bosnia and Herzegovina","BA","E","RusEmbBih",NA,NA,NA,NA
+"38","Botswana","BW","E","EmbRusBotswana",NA,NA,NA,NA
+"39","Bouvet Island","BV",NA,NA,NA,NA,NA,NA
+"40","Brazil","BR","E","embaixadarussa",NA,NA,NA,NA
+"41","Brazil","BR","C","consuladorussia","consulate Rio de Janeiro",NA,NA,NA
+"42","Brazil","BR",NA,NA,NA,NA,NA,NA
+"43","British Indian Ocean Territory","IO",NA,NA,NA,NA,NA,NA
+"44","Brunei Darussalam","BN","E","RusEmbBrunei",NA,NA,NA,NA
+"45","Bulgaria","BG","E","RusEmbBul",NA,NA,NA,NA
+"46","Bulgaria","BG","C","ruscons_ruse",NA,NA,NA,NA
+"47","Burkina Faso","BF",NA,NA,NA,NA,NA,NA
+"48","Burundi","BI","E","ambrusburundi",NA,NA,NA,NA
+"49","Cambodia","KH","E","CamboRusEmba",NA,NA,NA,NA
+"50","Cambodia","KH","A","RusAmbCambodia",NA,"04/05/2020",NA,NA
+"51","Cambodia","KH","C","consularcamb",NA,NA,NA,NA
+"52","Cameroon","CM",NA,NA,NA,NA,NA,NA
+"53","Canada","CA","E","RussianEmbassyC",NA,NA,NA,NA
+"54","Canada","CA","C","Russia_Toronto","consulate Toronto",NA,NA,NA
+"55","Cape Verde","CV","E","embruscv",NA,NA,NA,NA
+"56","Cayman Islands","KY",NA,NA,NA,NA,NA,NA
+"57","Central African Republic","CF",NA,NA,NA,NA,NA,NA
+"58","Chad","TD","E","amrustd",NA,NA,NA,NA
+"59","Chile","CL","E","EmbRusChile",NA,NA,NA,NA
+"60","China","CN","E","rusembchina",NA,NA,NA,NA
+"61","China","CN","C","rusconsulharbin","double check?",NA,NA,NA
+"62","Christmas Island","CX",NA,NA,NA,NA,NA,NA
+"63","Cocos (Keeling) Islands","CC",NA,NA,NA,NA,NA,NA
+"64","Colombia","CO","E","rusiacolombia",NA,NA,NA,NA
+"65","Comoros","KM",NA,NA,NA,NA,NA,NA
+"66","Congo","CG","E","Russie_au_Congo",NA,NA,NA,NA
+"67","Congo, the Democratic Republic of the","CD","E","ambrus_drc",NA,NA,NA,NA
+"68","Congo, the Democratic Republic of the","CD",NA,NA,NA,NA,NA,NA
+"69","Cook Islands","CK",NA,NA,NA,NA,NA,NA
+"70","Costa Rica","CR","E","recostarica",NA,NA,NA,NA
+"71","Côte d'Ivoire","CI","E","AmbRusRCI",NA,NA,NA,NA
+"72","Croatia","HR","E","RusEmbCro",NA,NA,NA,NA
+"73","Cuba","CU","E","EmbRusCuba",NA,NA,NA,NA
+"74","Curaçao","CW",NA,NA,NA,NA,NA,NA
+"75","Cyprus","CY","E","RusEmbCyprus",NA,NA,NA,NA
+"76","Czech Republic","CZ","C","CG_Russia_Brno",NA,NA,NA,NA
+"77","Czech Republic","CZ","E","AmbRusCz",NA,NA,NA,NA
+"78","Czech Republic","CZ","C","GK_KARL_VARY","consulate Karlovych Varech",NA,NA,NA
+"79","Czech Republic","CZ","O","kultura_rsvk",NA,NA,NA,NA
+"80","Denmark","DK","E","RusEmbDK",NA,NA,NA,NA
+"81","Djibouti","DJ",NA,NA,NA,NA,NA,NA
+"82","Dominica","DM",NA,NA,NA,NA,NA,NA
+"83","Dominican Republic","DO",NA,NA,NA,NA,NA,NA
+"84","Dominican Republic","DO",NA,NA,NA,NA,NA,NA
+"85","Ecuador","EC","E","RusEmb_Ecuador",NA,NA,NA,NA
+"86","Egypt","EG","E","Rusembegypt",NA,NA,NA,NA
+"87","Egypt","EG","C","GKHurghada",NA,NA,NA,NA
+"88","Egypt","EG","C","rusconsulate",NA,NA,NA,NA
+"89","El Salvador","SV",NA,NA,NA,NA,NA,NA
+"90","El Salvador","SV",NA,NA,NA,NA,NA,NA
+"91","Equatorial Guinea","GQ",NA,NA,NA,NA,NA,NA
+"92","Eritrea","ER","E","rusemberitrea",NA,NA,NA,NA
+"93","Estonia","EE","C","gk_narva","Consulate Narva",NA,NA,NA
+"94","Estonia","EE","E","RusEmbEst",NA,NA,NA,NA
+"95","Estonia","EE","S","SNalobin","Minister Counsellor Russian Embassy in Estonia",NA,NA,NA
+"96","Ethiopia","ET","E","RusEmbEthiopia",NA,NA,NA,NA
+"97","Falkland Islands (Malvinas)","FK",NA,NA,NA,NA,NA,NA
+"98","Faroe Islands","FO",NA,NA,NA,NA,NA,NA
+"99","Fiji","FJ",NA,NA,NA,NA,NA,NA
+"100","Finland","FI","C","rusconsul_turku","consulate turku",NA,NA,NA
+"101","Finland","FI","E","russianembfinla",NA,NA,NA,NA
+"102","France","FR","E","AmbRusFrance",NA,NA,NA,NA
+"103","France","FR","C","RusCons_Brest","consulate Brest",NA,NA,NA
+"104","France","FR",NA,NA,NA,NA,NA,NA
+"105","French Guiana","GF",NA,NA,NA,NA,NA,NA
+"106","French Polynesia","PF",NA,NA,NA,NA,NA,NA
+"107","French Southern Territories","TF",NA,NA,NA,NA,NA,NA
+"108","Gabon","GA","E","ambrusga",NA,NA,NA,NA
+"109","Gambia","GM",NA,NA,NA,NA,NA,NA
+"110","Georgia","GE","E","ruisembswissgeo",NA,NA,NA,NA
+"111","Germany","DE","E","RusBotschaft",NA,NA,NA,NA
+"112","Germany","DE","C","rumunix","consulate munich",NA,NA,NA
+"113","Germany","DE","C","RusKonsLeipzig","consulate Leipzig",NA,NA,NA
+"114","Germany","DE","C","Rusbonn","consulate Bonn",NA,NA,NA
+"115","Germany","DE","C","RusConsulateFra","consulate frankfurt",NA,NA,NA
+"116","Ghana","GH","E","RusEmbGhanaEng",NA,NA,NA,NA
+"117","Ghana","GH","E","RusEmbGhana",NA,NA,NA,NA
+"118","Gibraltar","GI",NA,NA,NA,NA,NA,NA
+"119","Greece","GR","E","RFEmbassyGr",NA,NA,NA,NA
+"120","Greece","GR","C","gksaloniki",NA,NA,NA,NA
+"121","Greenland","GL",NA,NA,NA,NA,NA,NA
+"122","Grenada","GD",NA,NA,NA,NA,NA,NA
+"123","Grenada","GD",NA,NA,NA,NA,NA,NA
+"124","Guadeloupe","GP",NA,NA,NA,NA,NA,NA
+"125","Guam","GU",NA,NA,NA,NA,NA,NA
+"126","Guatemala","GT","E","EmbRusaGuate",NA,NA,NA,NA
+"127","Guernsey","GG",NA,NA,NA,NA,NA,NA
+"128","Guinea","GN",NA,NA,NA,NA,NA,NA
+"129","Guinea-Bissau","GW","E","RusBissau",NA,NA,NA,NA
+"130","Guyana","GY",NA,NA,NA,NA,NA,NA
+"131","Haiti","HT",NA,NA,NA,NA,NA,NA
+"132","Heard Island and McDonald Islands","HM",NA,NA,NA,NA,NA,NA
+"133","Holy See (Vatican City State)","VA","E","emb_rus",NA,NA,NA,NA
+"134","Honduras","HN",NA,NA,NA,NA,NA,NA
+"135","Hong Kong","HK",NA,NA,NA,NA,NA,NA
+"136","Hungary","HU","E","RusEmbHungary",NA,NA,NA,NA
+"137","Hungary","HU","C","Rus_gk_Deb","consulate Debrecen",NA,NA,NA
+"138","Iceland","IS","E","RusEmb_Iceland",NA,NA,NA,NA
+"139","India","IN","A","AmbRus_India",NA,NA,NA,NA
+"140","India","IN","E","RusEmbIndia",NA,NA,NA,NA
+"141","India","IN","E","RusEmbIndia_Ru",NA,NA,NA,NA
+"142","India","IN","C","RusConGen_Kol","consulate Kolkata",NA,NA,NA
+"143","India","IN","C","RITHMumbai",NA,NA,NA,NA
+"144","India","IN","C","RusConsChennai","consulate chennai",NA,NA,NA
+"145","India","IN","C","Ru_Cons_Kolkata",NA,NA,NA,NA
+"146","India","IN","O","rusintrade",NA,NA,NA,NA
+"147","Indonesia","ID","E","RusEmbJakarta",NA,NA,NA,NA
+"148","Iran, Islamic Republic of","IR","E","rusembiran",NA,NA,NA,NA
+"149","Iraq","IQ","E","RusEmbassyIraq",NA,NA,NA,NA
+"150","Ireland","IE","E","Rus_Emb_Ireland",NA,NA,NA,NA
+"151","Isle of Man","IM",NA,NA,NA,NA,NA,NA
+"152","Israel","IL","E","israel_mid_ru",NA,NA,NA,NA
+"153","Israel","IL","C","gk_russia_haifa",NA,NA,NA,NA
+"154","Italy","IT","E","rusembitaly",NA,NA,NA,NA
+"155","Italy","IT","C","rusconspalermo",NA,NA,NA,NA
+"156","Italy","IT","C","ConsolatoRusso",NA,NA,NA,NA
+"157","Italy","IT","C","rusconsgenova","consualte Genoa",NA,NA,NA
+"158","Jamaica","JM","E","RussiaJamaica",NA,NA,NA,NA
+"159","Japan","JP","C","RusConsNiigata","consulate Niigata",NA,NA,NA
+"160","Japan","JP","E","RusEmbassyJ",NA,NA,NA,NA
+"161","Japan","JP","C","gkrfosaka",NA,NA,NA,NA
+"162","Japan","JP",NA,NA,NA,NA,NA,NA
+"163","Japan","JP",NA,NA,NA,NA,NA,NA
+"164","Jersey","JE",NA,NA,NA,NA,NA,NA
+"165","Jordan","JO","E","RusEmbJordan",NA,NA,NA,NA
+"166","Kazakhstan","KZ","E","Rfembkazakhstan",NA,NA,NA,NA
+"167","Kazakhstan","KZ","C","RusConsUKK",NA,NA,NA,NA
+"168","Kenya","KE","E","russembkenya",NA,NA,NA,NA
+"169","Kiribati","KI",NA,NA,NA,NA,NA,NA
+"170","Korea, Democratic People's Republic of","KP","E","RusEmbDPRK",NA,NA,NA,NA
+"171","Korea, Republic of","KR","C","ruspusan","Consulate in Busa",NA,NA,NA
+"172","Korea, Republic of","KR","E","RusEmb_Korea",NA,NA,NA,NA
+"173","Kuwait","KW","E","RusEmbKuw",NA,NA,NA,NA
+"174","Kyrgyzstan","KG","E","RusEmbKG",NA,NA,NA,NA
+"175","Kyrgyzstan","KG","C","osh_genkon",NA,NA,NA,NA
+"176","Lao People's Democratic Republic","LA",NA,NA,NA,NA,NA,NA
+"177","Latvia","LV","C","DaugavpilsRF","consulate in Daugavpils",NA,NA,NA
+"178","Latvia","LV","E","LV_RUSEMBAS",NA,NA,NA,NA
+"179","Latvia","LV","C","ConsLv","consulate riga",NA,NA,NA
+"180","Latvia","LV","C","RConsulate","consulate in Liepaja",NA,NA,NA
+"181","Lebanon","LB","E","rusembleb",NA,NA,NA,NA
+"182","Lesotho","LS",NA,NA,NA,NA,NA,NA
+"183","Liberia","LR",NA,NA,NA,NA,NA,NA
+"184","Libya","LY",NA,NA,NA,NA,NA,NA
+"185","Liechtenstein","LI",NA,NA,NA,NA,NA,NA
+"186","Lithuania","LT","E","RusEmb_LT",NA,NA,NA,NA
+"187","Lithuania","LT","C","RusConsKlaipeda","Consulate Klaipea",NA,NA,NA
+"188","Luxembourg","LU","E","RusEmbLux",NA,NA,NA,NA
+"189","Macao","MO",NA,NA,NA,NA,NA,NA
+"190","Macedonia, the Former Yugoslav Republic of","MK","E","Russian_Emb_MKD",NA,NA,NA,NA
+"191","Madagascar","MG","E","Amb_de_Russie",NA,NA,NA,NA
+"192","Madagascar","MG","C","Amb_Akhmedov",NA,NA,NA,NA
+"193","Malawi","MW",NA,NA,NA,NA,NA,NA
+"194","Malawi","MW",NA,NA,NA,NA,NA,NA
+"195","Malaysia","MY","E","RusEmb_Malaysia",NA,NA,NA,NA
+"196","Maldives","MV",NA,NA,NA,NA,NA,NA
+"197","Mali","ML","E","ambassade_russe","also niger",NA,NA,NA
+"198","Mali","ML",NA,NA,NA,NA,NA,NA
+"199","Malta","MT","E","RusEmbMalta",NA,NA,NA,NA
+"200","Marshall Islands","MH",NA,NA,NA,NA,NA,NA
+"201","Martinique","MQ",NA,NA,NA,NA,NA,NA
+"202","Mauritania","MR","E","AmbRussMaur",NA,NA,NA,NA
+"203","Mauritius","MU","E","RusEmbMauritius",NA,NA,NA,NA
+"204","Mayotte","YT",NA,NA,NA,NA,NA,NA
+"205","Mexico","MX","E","EmbRusiaMexico",NA,NA,NA,NA
+"206","Micronesia, Federated States of","FM",NA,NA,NA,NA,NA,NA
+"207","Moldova, Republic of","MD","E","embrus_md",NA,NA,NA,NA
+"208","Monaco","MC",NA,NA,NA,NA,NA,NA
+"209","Mongolia","MN","E","RusEmbMNG",NA,NA,NA,NA
+"210","Mongolia","MN","C","gkrfdar","consulate Darkhan",NA,NA,NA
+"211","Montenegro","ME","E","AmbRusME",NA,NA,NA,NA
+"212","Montserrat","MS",NA,NA,NA,NA,NA,NA
+"213","Morocco","MA","E","U_MAROC",NA,NA,NA,NA
+"214","Morocco","MA","O","traderusMAR","double check",NA,NA,NA
+"215","Mozambique","MZ","E","embrusmoz",NA,NA,NA,NA
+"216","Myanmar","MM",NA,NA,NA,NA,NA,NA
+"217","Namibia",NA,"E","RusEmbNam",NA,NA,NA,NA
+"218","Nauru","NR",NA,NA,NA,NA,NA,NA
+"219","Nepal","NP","E","embassy_russia",NA,NA,NA,NA
+"220","Netherlands","NL","E","rusembassynl",NA,NA,NA,NA
+"221","New Caledonia","NC",NA,NA,NA,NA,NA,NA
+"222","New Zealand","NZ","E","ConSecRusEmb_NZ",NA,NA,NA,NA
+"223","Nicaragua","NI","E","EmbRusNicaragua",NA,NA,NA,NA
+"224","Niger","NE",NA,NA,"see mali",NA,NA,NA
+"225","Nigeria","NG","E","RusEmbNigeria",NA,NA,NA,NA
+"226","Niue","NU",NA,NA,NA,NA,NA,NA
+"227","Norfolk Island","NF",NA,NA,NA,NA,NA,NA
+"228","Northern Mariana Islands","MP",NA,NA,NA,NA,NA,NA
+"229","Norway","NO","E","RusEmbNo",NA,NA,NA,NA
+"230","Norway","NO","C","Rusgkkirkenes","Consulate Kirkenes",NA,NA,NA
+"231","Norway","NO","C","spitsbergenrf","Consulate Spitzbergen",NA,NA,NA
+"232","Oman","OM","E","russianemboman",NA,NA,NA,NA
+"233","Pakistan","PK","E","rusembpakistan",NA,NA,NA,NA
+"234","Palau","PW",NA,NA,NA,NA,NA,NA
+"235","Palestine, State of","PS","E","RusRepRamallah",NA,NA,NA,NA
+"236","Panama","PA","E","EmbRusPan",NA,NA,NA,NA
+"237","Panama","PA",NA,NA,NA,NA,NA,NA
+"238","Panama","PA",NA,NA,NA,NA,NA,NA
+"239","Panama","PA",NA,NA,NA,NA,NA,NA
+"240","Papua New Guinea","PG",NA,NA,NA,NA,NA,NA
+"241","Paraguay","PY","E","embajada_rusia",NA,NA,NA,NA
+"242","Paraguay","PY","E","EmbRusPar",NA,NA,NA,NA
+"243","Peru","PE","E","RusEmbPeru",NA,NA,NA,NA
+"244","Philippines","PH","E","RusEmbManila",NA,NA,NA,NA
+"245","Pitcairn","PN",NA,NA,NA,NA,NA,NA
+"246","Poland","PL","E","rusemb_pl",NA,NA,NA,NA
+"247","Poland","PL","C","rusconskrakow","consulate krakow",NA,NA,NA
+"248","Poland","PL","C","RusConsPoz",NA,NA,NA,NA
+"249","Poland","PL","C","RusConsGDA",NA,NA,NA,NA
+"250","Portugal","PT","E","EmbaixadaRusPt",NA,NA,NA,NA
+"251","Puerto Rico","PR",NA,NA,NA,NA,NA,NA
+"252","Qatar","QA","E","russiaqatar",NA,NA,NA,NA
+"253","Réunion","RE",NA,NA,NA,NA,NA,NA
+"254","Romania","RO","C","consulatulrus","consulate constanta",NA,NA,NA
+"255","Russian Federation","RU","E","rusembnz",NA,NA,NA,NA
+"256","Rwanda","RW","E","RusEmb_Rwanda",NA,NA,NA,NA
+"257","Saint Barthélemy","BL",NA,NA,NA,NA,NA,NA
+"258","Saint Helena, Ascension and Tristan da Cunha","SH",NA,NA,NA,NA,NA,NA
+"259","Saint Kitts and Nevis","KN",NA,NA,NA,NA,NA,NA
+"260","Saint Lucia","LC",NA,NA,NA,NA,NA,NA
+"261","Saint Martin (French part)","MF",NA,NA,NA,NA,NA,NA
+"262","Saint Pierre and Miquelon","PM",NA,NA,NA,NA,NA,NA
+"263","Saint Vincent and the Grenadines","VC",NA,NA,NA,NA,NA,NA
+"264","Samoa","WS",NA,NA,NA,NA,NA,NA
+"265","San Marino","SM",NA,NA,NA,NA,NA,NA
+"266","Sao Tome and Principe","ST",NA,NA,NA,NA,NA,NA
+"267","Saudi Arabia","SA","E","RusEmb_KSA",NA,NA,NA,NA
+"268","Saudi Arabia","SA","C","RusConsJeddah","consulate Jedda, KSA",NA,NA,NA
+"269","Senegal","SN","E","AmbRusSenegal",NA,NA,NA,NA
+"270","Serbia","RS","E","AmbasadaRusije",NA,NA,NA,NA
+"271","Serbia","RS","A","ABocanHarcenko",NA,NA,NA,NA
+"272","Seychelles","SC","E","RusEmbSey",NA,NA,NA,NA
+"273","Sierra Leone","SL",NA,NA,NA,NA,NA,NA
+"274","Singapore","SG","E","RusEmbSG",NA,NA,NA,NA
+"275","Sint Maarten (Dutch part)","SX",NA,NA,NA,NA,NA,NA
+"276","Slovakia","SK","E","RusEmbSK",NA,NA,NA,NA
+"277","Slovenia","SI","E","AmbrusSlo_Ru",NA,NA,NA,NA
+"278","Slovenia","SI","E","ambrusslo",NA,NA,NA,NA
+"279","Solomon Islands","SB",NA,NA,NA,NA,NA,NA
+"280","Somalia","SO",NA,NA,NA,NA,NA,NA
+"281","Somalia","SO",NA,NA,NA,NA,NA,NA
+"282","South Africa","ZA","C","RusConsCapetown","consulate Cape Town",NA,NA,NA
+"283","South Africa","ZA","E","embassyofrussia",NA,NA,NA,NA
+"284","South Africa","ZA",NA,NA,NA,NA,NA,NA
+"285","South Africa","ZA",NA,NA,NA,NA,NA,NA
+"286","South Georgia and the South Sandwich Islands","GS",NA,NA,NA,NA,NA,NA
+"287","South Sudan","SS",NA,NA,NA,NA,NA,NA
+"288","Spain","ES","E","EmbajadaRusaES",NA,NA,NA,NA
+"289","Spain","ES","E","EmbajadaRusaRu",NA,NA,NA,NA
+"290","Spain","ES","E","ruscg_barcelona",NA,NA,NA,NA
+"291","Spain","ES","C","RusCG_Bcn_ES","consulate Barcelona",NA,NA,NA
+"292","Sri Lanka","LK","E","RusEmbSriLanka",NA,NA,NA,NA
+"293","Sudan","SD","E","Rus_Emb_Sudan",NA,NA,NA,NA
+"294","Suriname","SR",NA,NA,NA,NA,NA,NA
+"295","Suriname","SR",NA,NA,NA,NA,NA,NA
+"296","Svalbard and Jan Mayen","SJ",NA,NA,NA,NA,NA,NA
+"297","Swaziland","SZ",NA,NA,NA,NA,NA,NA
+"298","Sweden","SE","E","RusEmbSwe",NA,NA,NA,NA
+"299","Sweden","SE","C","RusConsGoteborg",NA,NA,NA,NA
+"300","Switzerland","CH","E","RusEmbSwiss",NA,NA,NA,NA
+"301","Switzerland","CH","C","RusConsulGen","consulate Geneve",NA,NA,NA
+"302","Switzerland","CH","O","RustradeCH",NA,NA,NA,NA
+"303","Syrian Arab Republic","SY","E","RusEmbSyria",NA,NA,NA,NA
+"304","Taiwan, Province of China","TW",NA,NA,NA,NA,NA,NA
+"305","Tajikistan","TJ","E","rusemb_dushanbe",NA,NA,NA,NA
+"306","Tajikistan","TJ","C","ruscons_khujand","consulate Khujand",NA,NA,NA
+"307","Tanzania, United Republic of","TZ","E","rusembtz",NA,NA,NA,NA
+"308","Tanzania, United Republic of","TZ","O","RCSC_Tanzania","Cultural center",NA,NA,NA
+"309","Thailand","TH","E","RusEmbBangkok",NA,NA,NA,NA
+"310","Timor-Leste","TL",NA,NA,NA,NA,NA,NA
+"311","Togo","TG",NA,NA,NA,NA,NA,NA
+"312","Tokelau","TK",NA,NA,NA,NA,NA,NA
+"313","Tonga","TO",NA,NA,NA,NA,NA,NA
+"314","Trinidad and Tobago","TT",NA,NA,NA,NA,NA,NA
+"315","Tunisia","TN","E","AmbRusTun",NA,NA,NA,NA
+"316","Turkey","TR","E","RusEmbTurkey",NA,NA,NA,NA
+"317","Turkey","TR","A","GK_TRABZON","Consulate Trabzon, TR",NA,NA,NA
+"318","Turkey","TR","C","rusya_istanbul","Consulate Istanbul",NA,NA,NA
+"319","Turkmenistan","TM","E","rusemb_tm",NA,NA,NA,NA
+"320","Turks and Caicos Islands","TC",NA,NA,NA,NA,NA,NA
+"321","Tuvalu","TV",NA,NA,NA,NA,NA,NA
+"322","Uganda","UG","E","RusEmbUganda",NA,NA,NA,NA
+"323","Uganda","UG",NA,NA,NA,NA,NA,NA
+"324","Uganda","UG",NA,NA,NA,NA,NA,NA
+"325","Uganda","UG",NA,NA,NA,NA,NA,NA
+"326","Ukraine","UA","E","RusembUkraine",NA,NA,NA,NA
+"327","Ukraine","UA","C","RusConsKharkov","Consulate Kharkov",NA,NA,NA
+"328","Ukraine","UA","C","ConsRusLvov",NA,NA,NA,NA
+"329","Ukraine","UA","C","genconrfodessa",NA,NA,NA,NA
+"330","Ukraine","UA","O","ukrrsgov","science and culture centre kiev",NA,NA,NA
+"331","United Arab Emirates","AE","C","ruconsdubai",NA,NA,NA,NA
+"332","United Arab Emirates","AE","E","RusEmbassyUAE",NA,NA,NA,NA
+"333","United Kingdom","GB","E","RussianEmbassy",NA,NA,NA,NA
+"334","United Kingdom","GB","E","RussianEmbassyR",NA,NA,NA,NA
+"335","United Kingdom","GB","C","RussiaScotland","Consulate in Edinburgh",NA,NA,NA
+"336","United States","US","E","RusEmbUSA",NA,NA,NA,NA
+"337","United States","US","E","russiainusa",NA,NA,NA,NA
+"338","United States","US","C","RusCons_TX","consular division houston",NA,NA,NA
+"339","United States","US","C","RusConsulateDC","consular division washington DC",NA,NA,NA
+"340","United States","US","C","rcgnewyork",NA,NA,NA,NA
+"341","United States","US","S","rusembusapress","press officer US emb",NA,NA,NA
+"342","United States","US","O","rccusa","cultural center DC",NA,NA,NA
+"343","United States Minor Outlying Islands","UM",NA,NA,NA,NA,NA,NA
+"344","Uruguay","UY","E","EmbRusUruguay",NA,NA,NA,NA
+"345","Uzbekistan","UZ","E","russiauz",NA,NA,NA,NA
+"346","Vanuatu","VU",NA,NA,NA,NA,NA,NA
+"347","Venezuela, Bolivarian Republic of","VE","E","EmbajadaVenRU",NA,NA,NA,NA
+"348","Venezuela, Bolivarian Republic of","VE","E","EmbajadaRusaVEN","Venezuela, Haiti and Dominican Republic",NA,NA,NA
+"349","Venezuela, Bolivarian Republic of","VE","A","EmbSergio","ambassador",NA,NA,NA
+"350","Viet Nam","VN","E","RusEmbVietnam",NA,NA,NA,NA
+"351","Viet Nam","VN","C","consdanang","consulate Da Nang",NA,NA,NA
+"352","Viet Nam","VN","C","RusConsulGenHCM",NA,NA,NA,NA
+"353","Virgin Islands, British","VG",NA,NA,NA,NA,NA,NA
+"354","Virgin Islands, U.S.","VI",NA,NA,NA,NA,NA,NA
+"355","Wallis and Futuna","WF",NA,NA,NA,NA,NA,NA
+"356","Western Sahara","EH",NA,NA,NA,NA,NA,NA
+"357","Yemen","YE","E","RussianEmbYemen",NA,NA,NA,NA
+"358","Zambia","ZM","E","RusembZ",NA,NA,NA,NA
+"359","Zimbabwe","ZW","E","RuEmbZimbabwe",NA,NA,NA,NA
+"360","Zimbabwe","ZW",NA,NA,NA,NA,NA,NA
+"361","Zimbabwe","ZW",NA,NA,"Deputy Ambassador",NA,NA,NA
+"362","Abkhazia",NA,"E","RusembApsny",NA,NA,NA,NA
+"363","South Ossetia",NA,"E","rusembrso",NA,NA,NA,NA
+"364","MFA English",NA,"G","mfa_russia",NA,NA,NA,NA
+"365","MFA press",NA,"G","pc_mid_rf",NA,NA,NA,NA
+"366","MFA Spanish",NA,"G","mae_rusia",NA,NA,NA,NA
+"367","MFA Russian",NA,"G","MID_RF",NA,NA,NA,NA
+"368","MFA Arabic",NA,"G","russia_ar",NA,NA,NA,NA
+"369","MFA Crimea",NA,"G","PMSimferopol",NA,NA,NA,NA
+"370","MFA Yekarerinburg",NA,"G","Ekatmid",NA,NA,NA,NA
+"371","MFA Kaliningrad",NA,"G","mid_kaliningrad",NA,NA,NA,NA
+"372","MFA Rostov",NA,"G","mid_rnd",NA,NA,NA,NA
+"373","MFA Krasnodar",NA,"G","mid_krasnodar",NA,NA,NA,NA
+"374","MFA Belogrod",NA,"G","mid_voronezh",NA,NA,NA,NA
+"375","MFA murmansk",NA,"G","midmurm",NA,NA,NA,NA
+"376","MFA vody",NA,"G","mwmidru",NA,NA,NA,NA
+"377","MFA ufa",NA,"G","mid_ufa",NA,NA,NA,NA
+"378","MFA barnaul",NA,"G","midbarnaul",NA,NA,NA,NA
+"379","MFA Ulan ude",NA,"G","mid_rf_ulanude",NA,NA,NA,NA
+"380","MFA Novosibirsk",NA,"G","midnovosibirsk",NA,NA,NA,NA
+"381","MFA Orenburg",NA,"G","mid_orenburg",NA,NA,NA,NA
+"382","MFA Omsk",NA,"G","mid_omsk",NA,NA,NA,NA
+"383","MFA St Petersburg",NA,"G","mid_spb",NA,NA,NA,NA
+"384","MFA Kazan",NA,"G","kazanmid",NA,NA,NA,NA
+"385","MFA Travel",NA,"G","mid_travel",NA,NA,NA,NA
+"386","MFA Arkhangelsk",NA,"G","midarkh",NA,NA,NA,NA
+"387","MFA Astrakhan",NA,"G","mid_astrakhan",NA,NA,NA,NA
+"388","MFA Blagoveshchensk",NA,"G","mid_amur",NA,NA,NA,NA
+"389","MFA Vladivostok",NA,"G","mid_vladivostok",NA,NA,NA,NA
+"390","MFA Kamchatsy",NA,"G","mid_kamchatka",NA,NA,NA,NA
+"391","MFA Petrozavodsk",NA,"G","midpetrozavodsk",NA,NA,NA,NA
+"392","MFA Smolensk",NA,"G","midsmol",NA,NA,NA,NA
+"393","MFA YS",NA,"G","mid_ys",NA,NA,NA,NA
+"394","MFA Samara",NA,"G","mid_samara",NA,NA,NA,NA
+"395","MFA Saratov",NA,"G","mid_saratov",NA,NA,NA,NA
+"396","MFA Pskov",NA,"G","pskovmid",NA,NA,NA,NA
+"397","MFA sochi",NA,"G","midsochi",NA,NA,NA,NA
+"398","MFA Yakutsk",NA,"G","mid_yakutsk",NA,NA,NA,NA
+"399","MFA",NA,"G","MIDKrasnoyarsk",NA,NA,NA,NA
+"400","MFA alania",NA,"G","unesco_russia",NA,NA,NA,NA
+"401","MFA yoshkar ola",NA,"G","MID_Yoshkar_Ola",NA,NA,NA,NA
+"402","MFA khabarovsk",NA,"G","mid_khabarovsk",NA,NA,NA,NA
+"403","MFA cheboksary",NA,"G","MID_Cheboksary",NA,NA,NA,NA
+"404","MFA Izhevsk",NA,"G","MID_Izhevsk",NA,NA,NA,NA
+"405","Russia",NA,"G","Russia",NA,NA,NA,NA
+"406",NA,NA,"G","MedvedevRussiaE",NA,NA,NA,NA
+"407","Ministry of Defense",NA,"G","mod_russia",NA,NA,NA,NA
+"408",NA,NA,"G","GovernmentRF",NA,NA,NA,NA
+"409",NA,NA,"G","pravitelstvo_rf",NA,NA,NA,NA
+"410","Kremlin",NA,"G","KremlinRussia_E",NA,NA,NA,NA
+"411","Kremlin",NA,"G","KremlinRussia",NA,NA,NA,NA
+"412","Interior Ministry",NA,"G","mvd_official",NA,NA,NA,NA
+"413","ASEAN",NA,"O","aseanrussia",NA,NA,NA,NA
+"414","EU",NA,"E","rusmission_eu",NA,NA,NA,NA
+"415","UN",NA,"E","russiaun",NA,NA,NA,NA
+"416","UN",NA,"S","Dpol_un","First Deputy Permanent Representative of Russia to the UN",NA,NA,NA
+"417","UN Geneva",NA,"S","A__Alimov","Russian Deputy Perm Rep to UN Office in Geneva",NA,NA,NA
+"418","UN Geneva",NA,"E","mission_russian","Mission of Russia to UN Office and other international organizations in Geneva",NA,NA,NA
+"419","UN Geneva",NA,"A","ggatilov","PermRep Geneva",NA,NA,NA
+"420","UN Vienna",NA,"E","mission_rf",NA,NA,NA,NA
+"421","Orgs in Vienna",NA,"A","amb_ulyanov",NA,NA,NA,NA
+"422","Arms control vienna",NA,"E","armscontrol_rus",NA,NA,NA,NA
+"423","Council of Europe",NA,"E","CoE_Russia",NA,NA,NA,NA
+"424","Council of Europe",NA,"E","CE_RF",NA,NA,NA,NA
+"425","Russian Mission OIC",NA,"E","RusMission_OIC",NA,NA,NA,NA
+"426","Nato",NA,"E","natomission_ru",NA,NA,NA,NA
+"427","OSCE",NA,"E","rf_osce","Permanent Mission of the Russian Federation to the OSCE",NA,NA,NA
+"428","Cis Mission",NA,"E","Cis_Russia",NA,NA,NA,NA
+"429","Arctic",NA,"O","arcticru",NA,NA,NA,NA
+"430","BRICS",NA,"O","bricsrussia2020",NA,NA,NA,NA
+"431","MFA director HR",NA,"S","lukiyantsev","inactive",NA,NA,NA
+"432","Olympic Com",NA,"O","olympic_russia",NA,NA,NA,NA
+"433","Direct investment fund",NA,"O","rdif_press",NA,NA,NA,NA
+"434","export center",NA,"QG","rusexport_eng",NA,NA,NA,NA
+"435","rosatom",NA,"QG","rosatomglobal",NA,NA,NA,NA
+"436","federal agency commonwealth",NA,"QG","rsgov",NA,NA,NA,NA
+"437","export of tech",NA,"QG","rostec_russia",NA,NA,NA,NA
+"438","antidoping agency",NA,"QG","rusada",NA,NA,NA,NA
+"439","barents rep",NA,"G","russia_in_beac",NA,NA,NA,NA
+"440","st petersburg economic",NA,"QG","spief",NA,NA,NA,NA
+"441","sputnik vaxx",NA,"QG","sputnikvaccine",NA,NA,NA,NA
+"442","duma",NA,"G","state_duma",NA,NA,NA,NA
+"443","aircraft corp",NA,"QG","uac_russia_eng",NA,NA,NA,NA
+"444","brics 2020",NA,"G","brics2020_rus",NA,NA,NA,NA
+"445","diplomatic academiy",NA,"QG","dipacademymid",NA,NA,NA,NA
+"446","deputy director MFA europe",NA,"S","dmitrybalakin",NA,NA,NA,NA
+"447","history dep MFA",NA,"G","diplohistory",NA,NA,NA,NA
+"448","FAO rome",NA,"E","rusfao",NA,NA,NA,NA
+"449","military history",NA,"O","rvio_ru",NA,NA,NA,NA
+"450","head of crimea",NA,"G","aksenov_sv",NA,NA,NA,NA
+"451","council young diplos",NA,"QG","smdmid",NA,NA,NA,NA
+"452","Rossotrudnitschestwo UK office",NA,"QG","rsgovuk",NA,NA,NA,NA
+"453","vienna arms control",NA,"S","RusGavrilov",NA,NA,NA,NA
+"454","dep permrep OSCE",NA,"S","MBuyakevich",NA,NA,NA,NA
+"455","health ministry",NA,"G","MINZDRAV_RF",NA,NA,NA,NA

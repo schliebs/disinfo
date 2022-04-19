@@ -39,3 +39,6 @@ vignettes/*.pdf
 .Renviron
 
 inst/helper
+
+dev/*
+dev/
