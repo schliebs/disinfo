@@ -3,3 +3,11 @@
 
 dev/*
 dev/
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+
+dev/*
+dev/
+inst/helper/*
+inst/helper/
