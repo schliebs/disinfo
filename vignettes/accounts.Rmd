@@ -9,15 +9,17 @@ vignette: >
   %\VignetteEncoding{UTF-8}
 ---
 
-The goal of pkgdown is to make it easy to make an elegant and useful package website with a minimum of work.
-You can get a basic website up and running in just a couple of minutes:
+## Manual download of account lists from github
 
-```{r, eval = FALSE}
-# Run once to configure package to use pkgdown
-usethis::use_pkgdown()
-# Run to build the website
-pkgdown::build_site()
-```
+If you would like to access or download the account seed lists without using R, you can directly load them via the following links:
+
+* Russian diplomat Twitter accounts and labelling [browsable table](https://github.com/schliebs/disinfo/blob/main/inst/extdata/ru/ru_diplomats_twitter_latest.csv) or [raw csv file](https://raw.githubusercontent.com/schliebs/disinfo/main/inst/extdata/ru/ru_diplomats_twitter_latest.csv)
+
+* Chinese diplomat Twitter accounts and labelling [browsable table](https://github.com/schliebs/disinfo/blob/main/inst/extdata/cn/cn_diplomats_twitter_latest.csv) or [raw csv file](https://raw.githubusercontent.com/schliebs/disinfo/main/inst/extdata/cn/cn_diplomats_twitter_latest.csv)
+
+
+
+## R functions to pull diplomat account and labelling data
 
 ```{r,warning = F,message=F}
 options(tidyverse.quiet = TRUE)

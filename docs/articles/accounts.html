@@ -79,13 +79,19 @@
 
     
     
-<p>The goal of pkgdown is to make it easy to make an elegant and useful package website with a minimum of work. You can get a basic website up and running in just a couple of minutes:</p>
+<div class="section level2">
+<h2 id="manual-download-of-account-lists-from-github">Manual download of account lists from github<a class="anchor" aria-label="anchor" href="#manual-download-of-account-lists-from-github"></a>
+</h2>
+<p>If you would like to access or download the account seed lists without using R, you can directly load them via the following links:</p>
+<ul>
+<li><p>Russian diplomat Twitter accounts and labelling <a href="https://github.com/schliebs/disinfo/blob/main/inst/extdata/ru/ru_diplomats_twitter_latest.csv" class="external-link">browsable table</a> or <a href="https://raw.githubusercontent.com/schliebs/disinfo/main/inst/extdata/ru/ru_diplomats_twitter_latest.csv" class="external-link">raw csv file</a></p></li>
+<li><p>Chinese diplomat Twitter accounts and labelling <a href="https://github.com/schliebs/disinfo/blob/main/inst/extdata/cn/cn_diplomats_twitter_latest.csv" class="external-link">browsable table</a> or <a href="https://raw.githubusercontent.com/schliebs/disinfo/main/inst/extdata/cn/cn_diplomats_twitter_latest.csv" class="external-link">raw csv file</a></p></li>
+</ul>
+</div>
+<div class="section level2">
+<h2 id="r-functions-to-pull-diplomat-account-and-labelling-data">R functions to pull diplomat account and labelling data<a class="anchor" aria-label="anchor" href="#r-functions-to-pull-diplomat-account-and-labelling-data"></a>
+</h2>
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="co"># Run once to configure package to use pkgdown</span>
-<span class="fu">usethis</span><span class="fu">::</span><span class="fu"><a href="https://usethis.r-lib.org/reference/use_pkgdown.html" class="external-link">use_pkgdown</a></span><span class="op">(</span><span class="op">)</span>
-<span class="co"># Run to build the website</span>
-<span class="fu">pkgdown</span><span class="fu">::</span><span class="fu"><a href="https://pkgdown.r-lib.org/reference/build_site.html" class="external-link">build_site</a></span><span class="op">(</span><span class="op">)</span></code></pre></div>
-<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/base/options.html" class="external-link">options</a></span><span class="op">(</span>tidyverse.quiet <span class="op">=</span> <span class="cn">TRUE</span><span class="op">)</span>
 <span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://tidyverse.tidyverse.org" class="external-link">tidyverse</a></span><span class="op">)</span>
 <span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va">disinfo</span><span class="op">)</span>
@@ -102,7 +108,7 @@
 
 <span class="va">ru_accs</span> <span class="op">&lt;-</span> <span class="fu"><a href="../reference/get_accounts.html">get_accounts</a></span><span class="op">(</span>country <span class="op">=</span> <span class="st">"RU"</span>,group <span class="op">=</span> <span class="st">"diplomats"</span><span class="op">)</span></code></pre></div>
 <pre><code><span class="co">## [1] "321 Russian diplomats and government accounts. Twitter transparency labels as of 2022-04-21. Account data as of 2022-04-14."</span></code></pre>
-<div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="va">ru_accs</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">group_by</a></span><span class="op">(</span><span class="va">cat</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate.html" class="external-link">mutate</a></span><span class="op">(</span>n_cat <span class="op">=</span> <span class="fu"><a href="https://dplyr.tidyverse.org/reference/context.html" class="external-link">n</a></span><span class="op">(</span><span class="op">)</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
@@ -119,7 +125,7 @@
 <span class="co">## <span style="color: #BCBCBC;">4</span> G        55 TRUE         14 0.255 </span>
 <span class="co">## <span style="color: #BCBCBC;">5</span> QG       11 TRUE          1 0.090<span style="text-decoration: underline;">9</span></span>
 <span class="co">## <span style="color: #BCBCBC;">6</span> S         8 TRUE          3 0.375</span></code></pre>
-<div class="sourceCode" id="cb6"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb5"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="va">veridata</span> <span class="op">&lt;-</span> 
   <span class="va">ru_accs</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span> 
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">group_by</a></span><span class="op">(</span><span class="va">cat</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
@@ -145,7 +151,7 @@
 <span class="va">veridata</span><span class="op">$</span><span class="va">lab</span><span class="op">[</span><span class="va">veridata</span><span class="op">$</span><span class="va">cat</span> <span class="op">==</span> <span class="st">"G"</span><span class="op">]</span> <span class="op">&lt;-</span> <span class="st">"RU Government Accounts"</span>
 <span class="va">veridata</span><span class="op">$</span><span class="va">lab</span><span class="op">[</span><span class="va">veridata</span><span class="op">$</span><span class="va">cat</span> <span class="op">==</span> <span class="st">"E"</span><span class="op">]</span> <span class="op">&lt;-</span> <span class="st">"Embassies"</span>
 <span class="va">veridata</span><span class="op">$</span><span class="va">lab</span><span class="op">[</span><span class="va">veridata</span><span class="op">$</span><span class="va">cat</span> <span class="op">==</span> <span class="st">"QG"</span><span class="op">]</span> <span class="op">&lt;-</span> <span class="cn">NA</span> <span class="co"># exclude "Quasi-Gov"</span></code></pre></div>
-<div class="sourceCode" id="cb7"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb6"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="va">gg3</span> <span class="op">&lt;-</span> 
   <span class="fu"><a href="https://ggplot2.tidyverse.org/reference/ggplot.html" class="external-link">ggplot</a></span><span class="op">(</span><span class="va">veridata</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span> <span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html" class="external-link">filter</a></span><span class="op">(</span><span class="op">!</span><span class="fu"><a href="https://rdrr.io/r/base/NA.html" class="external-link">is.na</a></span><span class="op">(</span><span class="va">lab</span><span class="op">)</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span>
   <span class="fu"><a href="https://rdrr.io/pkg/waffle/man/geom_pictogram.html" class="external-link">geom_pictogram</a></span><span class="op">(</span>
@@ -203,12 +209,15 @@
 
 
 <span class="va">gg3</span></code></pre></div>
-<p><img src="accounts_files/figure-html/unnamed-chunk-5-1.png" width="700"></p>
+<p><img src="accounts_files/figure-html/unnamed-chunk-4-1.png" width="700"></p>
+</div>
   </div>
 
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
 
-      </div>
+        <nav id="toc" data-toggle="toc"><h2 data-toc-skip>Contents</h2>
+    </nav>
+</div>
 
 </div>
 
