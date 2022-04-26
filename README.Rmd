@@ -29,10 +29,13 @@ disinfo opening paragraph. Learn more in `vignette("disinfo")`.
 ::: .disinfo-devel
 ```{r, eval = FALSE}
 # Install development version from GitHub
+#install.packages("devtools")
 devtools::install_github("schliebs/disinfo")
 ```
 :::
 
 ## Usage
 
-...
+For account lists, see [account function page](https://schliebs.github.io/disinfo/articles/accounts.html)
+
+More functions and documentation will follow soon.

@@ -107,7 +107,7 @@
 <span class="fu"><a href="https://rdrr.io/pkg/extrafont/man/loadfonts.html" class="external-link">loadfonts</a></span><span class="op">(</span>device <span class="op">=</span> <span class="st">"pdf"</span>, quiet <span class="op">=</span> <span class="cn">TRUE</span><span class="op">)</span>
 
 <span class="va">ru_accs</span> <span class="op">&lt;-</span> <span class="fu"><a href="../reference/get_accounts.html">get_accounts</a></span><span class="op">(</span>country <span class="op">=</span> <span class="st">"RU"</span>,group <span class="op">=</span> <span class="st">"diplomats"</span><span class="op">)</span></code></pre></div>
-<pre><code><span class="co">## [1] "321 Russian diplomats and government accounts. Twitter transparency labels as of 2022-04-21. Account data as of 2022-04-14."</span></code></pre>
+<pre><code><span class="co">## [1] "321 Russian diplomats and government accounts. Twitter transparency labels as of 2022-04-26. Account data as of 2022-04-26."</span></code></pre>
 <div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="va">ru_accs</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">group_by</a></span><span class="op">(</span><span class="va">cat</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
@@ -120,8 +120,8 @@
 <span class="co">##   cat   n_cat gov_label     n   perc</span>
 <span class="co">##   <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span> <span style="color: #949494; font-style: italic;">&lt;int&gt;</span> <span style="color: #949494; font-style: italic;">&lt;lgl&gt;</span>     <span style="color: #949494; font-style: italic;">&lt;int&gt;</span>  <span style="color: #949494; font-style: italic;">&lt;dbl&gt;</span></span>
 <span class="co">## <span style="color: #BCBCBC;">1</span> A         7 TRUE          1 0.143 </span>
-<span class="co">## <span style="color: #BCBCBC;">2</span> C        65 TRUE          5 0.076<span style="text-decoration: underline;">9</span></span>
-<span class="co">## <span style="color: #BCBCBC;">3</span> E       162 TRUE         88 0.543 </span>
+<span class="co">## <span style="color: #BCBCBC;">2</span> C        66 TRUE          5 0.075<span style="text-decoration: underline;">8</span></span>
+<span class="co">## <span style="color: #BCBCBC;">3</span> E       161 TRUE         88 0.547 </span>
 <span class="co">## <span style="color: #BCBCBC;">4</span> G        55 TRUE         14 0.255 </span>
 <span class="co">## <span style="color: #BCBCBC;">5</span> QG       11 TRUE          1 0.090<span style="text-decoration: underline;">9</span></span>
 <span class="co">## <span style="color: #BCBCBC;">6</span> S         8 TRUE          3 0.375</span></code></pre>

@@ -18,6 +18,7 @@ disinfo opening paragraph. Learn more in `vignette("disinfo")`.
 
 ``` r
 # Install development version from GitHub
+#install.packages("devtools")
 devtools::install_github("schliebs/disinfo")
 ```
 
@@ -25,4 +26,7 @@ devtools::install_github("schliebs/disinfo")
 
 ## Usage
 
-…
+For account lists, see [account function
+page](https://schliebs.github.io/disinfo/articles/accounts.html)
+
+More functions and documentation will follow soon.
