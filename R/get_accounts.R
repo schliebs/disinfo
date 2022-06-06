@@ -4,6 +4,7 @@ library(tidyverse)
 #'
 #' @param country currently supports "RU" and "CN" (or both: c("RU","CN"))
 #' @param group currently supports "diplomats"
+#' @param online whether most recent version of data should be pulled, as opposed to only loaded when package is installed. Requires internet connection.
 #' @return returns data.frame with twitter handles and details on dipomats
 #' @references tbc
 #' @note tbc
@@ -23,18 +24,24 @@ library(tidyverse)
 #'   mutate(perc = n/n_cat) %>% filter(gov_label == T)
 #'
 #' @export
-get_accounts <- function(country,group = c("diplomats")){
+get_accounts <- function(country,group = c("diplomats"),online = T){
   
   at_date = lubridate::now()
   res_cn <- NULL
   res_ru <- NULL
   
+  if(online == T){
+    base_path <- "https://raw.githubusercontent.com/schliebs/disinfo/main/inst/"
+  }else if(online == F){
+    base_path <- path.package("disinfo")
+  }
+  
   if("CN" %in% country & "diplomats" %in% group){
     
     at_date <- lubridate::today()
-    accs_cn <- readr::read_csv(file.path(path.package("disinfo"),"extdata/cn/cn_diplomats_twitter_historical.csv"))
-    labs_cn <- readr::read_csv(file.path(path.package("disinfo"),"extdata/cn/platform_labels_twitter_cn_dips.csv"))
-    dips_cn <- readr::read_csv(file.path(path.package("disinfo"),"extdata/cn/twitter_cn_dips.csv"))
+    accs_cn <- readr::read_csv(file.path(base_path,"extdata/cn/cn_diplomats_twitter_historical.csv"))
+    labs_cn <- readr::read_csv(file.path(base_path,"extdata/cn/platform_labels_twitter_cn_dips.csv"))
+    dips_cn <- readr::read_csv(file.path(base_path,"extdata/cn/twitter_cn_dips.csv"))
     
     out_df <- 
       accs_cn %>% 
@@ -56,9 +63,9 @@ get_accounts <- function(country,group = c("diplomats")){
   if("RU" %in% country & "diplomats" %in% group){
     
     at_date <- lubridate::today()
-    accs_ru <- readr::read_csv(file.path(path.package("disinfo"),"extdata/ru/ru_diplomats_twitter_historical.csv"))
-    labs_ru <- readr::read_csv(file.path(path.package("disinfo"),"extdata/ru/platform_labels_twitter_ru_dips.csv"))
-    dips_ru <- readr::read_csv(file.path(path.package("disinfo"),"extdata/ru/twitter_ru_dips.csv"))
+    accs_ru <- readr::read_csv(file.path(base_path,"extdata/ru/ru_diplomats_twitter_historical.csv"))
+    labs_ru <- readr::read_csv(file.path(base_path,"extdata/ru/platform_labels_twitter_ru_dips.csv"))
+    dips_ru <- readr::read_csv(file.path(base_path,"extdata/ru/twitter_ru_dips.csv"))  
     
     out_df <- 
       accs_ru %>% 
