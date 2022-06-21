@@ -1,5 +1,5 @@
 Package: disinfo
-Title: What the Package Does (One Line, Title Case)
+Title: Tools and Data for Disinformation Research
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Marcel",

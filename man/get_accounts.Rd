@@ -4,12 +4,14 @@
 \alias{get_accounts}
 \title{Get lists of Russian or Chinese Diplomats}
 \usage{
-get_accounts(country, group = c("diplomats"))
+get_accounts(country, group = c("diplomats"), online = T)
 }
 \arguments{
 \item{country}{currently supports "RU" and "CN" (or both: c("RU","CN"))}
 
 \item{group}{currently supports "diplomats"}
+
+\item{online}{whether most recent version of data should be pulled, as opposed to only loaded when package is installed. Requires internet connection.}
 }
 \value{
 returns data.frame with twitter handles and details on dipomats

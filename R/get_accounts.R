@@ -41,7 +41,8 @@ get_accounts <- function(country,group = c("diplomats"),online = T){
     at_date <- lubridate::today()
     accs_cn <- readr::read_csv(file.path(base_path,"extdata/cn/cn_diplomats_twitter_historical.csv"))
     labs_cn <- readr::read_csv(file.path(base_path,"extdata/cn/platform_labels_twitter_cn_dips.csv"))
-    dips_cn <- readr::read_csv(file.path(base_path,"extdata/cn/twitter_cn_dips.csv"))
+    dips_cn <- readr::read_csv(file.path(base_path,"extdata/cn/twitter_cn_dips.csv"),
+                               col_types = cols(user_id = col_character()))  
     
     out_df <- 
       accs_cn %>% 
@@ -65,7 +66,8 @@ get_accounts <- function(country,group = c("diplomats"),online = T){
     at_date <- lubridate::today()
     accs_ru <- readr::read_csv(file.path(base_path,"extdata/ru/ru_diplomats_twitter_historical.csv"))
     labs_ru <- readr::read_csv(file.path(base_path,"extdata/ru/platform_labels_twitter_ru_dips.csv"))
-    dips_ru <- readr::read_csv(file.path(base_path,"extdata/ru/twitter_ru_dips.csv"))  
+    dips_ru <- readr::read_csv(file.path(base_path,"extdata/ru/twitter_ru_dips.csv"),
+                               col_types = cols(user_id = col_character()))  
     
     out_df <- 
       accs_ru %>% 
