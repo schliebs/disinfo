@@ -1,0 +1,47 @@
+country,lang,outlet,url ,lang_identifier,prefix,comment on lang identification,ct_keyword
+,,,,,,,
+china,en,cgtn,cgtn.com,cgtn.com,https://,no URL prefix,cgtn.com
+china,en,cgtn,cgtn.com,news.cgtn.com,https://,no URL prefix,cgtn.com
+china,en,cgtn,cgtn.com,newsus.cgtn.com,https://,no URL prefix,cgtn.com
+china,en,cgtn,cgtn.com,africa.cgtn.com,https://,no URL prefix,cgtn.com
+china,en,cgtn,cgtn.com,europe.cgtn.com,https://,no URL prefix,cgtn.com
+china,en,cgtn,cgtn.com,america.cgtn.com,https://,no URL prefix,cgtn.com
+china,en,cgtn,cgtn.com,newseu.cgtn.com,https://,no URL prefix,cgtn.com
+china,en,cgtn,cgtn.com,newsaf.cgtn.com,https://,no URL prefix,cgtn.com
+,,,,,,,
+china,de,cgtn,,,,NO GERMAN edition,cgtn.com
+china,fr,cgtn,francais.cgtn.com,francais.cgtn.com,https://,,cgtn.com
+china,es,cgtn,espanol.cgtn.com,espanol.cgtn.com,https://,,cgtn.com
+china,ar,cgtn,arabic.cgtn.com,arabic.cgtn.com,https://,,cgtn.com
+,,,,,,,
+china,en,xinhua,xinhuanet.com,xinhuanet.com/english,http://,,xinhuanet.com
+china,en,xinhua,xhtxs.cn,xhtxs.cn,http://,,xhtxs.cn
+china,en,xinhua,xhne.ws,xhne.ws,http://,,xhne.ws
+china,de,xinhua,german.xinhuanet.com,german.xinhuanet.com,http://,,xinhuanet.com
+china,es,xinhua,spanish.xinhuanet.com,spanish.xinhuanet.com,http://,,xinhuanet.com
+china,fr,xinhua,french.xinhuanet.com,french.xinhuanet.com,http://,,xinhuanet.com
+china,fr,xinhua,french.news.cn,french.news.cn,http://,,news.cn
+china,ar,xinhua,arabic.xinhuanet.com,arabic.xinhuanet.com,http://,,xinhuanet.com
+china,ar,xinhua,arabic.news.cn,arabic.news.cn,http://,,news.cn
+,,,,,,,
+china,en,peopledaily,people.cn,en.people.cn,http://,,people.cn
+china,en,peopledaily,peopledaily.cn,en.peopledaily.cn,http://,,peopledaily.cn
+china,de,peopledaily,german.people.com.cn,german.people.com.cn,http://,,people.com.cn
+china,de,peopledaily,german.peopledaily.com.cn,german.peopledaily.com.cn,http://,,peopledaily.com.cn
+china,fr,peopledaily,french.people.com.cn,french.people.com.cn,http://,,people.com.cn
+china,fr,peopledaily,french.peopledaily.com.cn,french.peopledaily.com.cn,http://,,peopledaily.com.cn
+china,es,peopledaily,spanish.people.com.cn,spanish.people.com.cn,http://,,people.com.cn
+china,es,peopledaily,spanish.peopledaily.com.cn,spanish.peopledaily.com.cn,http://,,peopledaily.com.cn
+china,ar,peopledaily,arabic.people.com.cn,arabic.people.com.cn,http://,,people.com.cn
+china,ar,peopledaily,arabic.peopledaily.com.cn,arabic.peopledaily.com.cn,http://,,peopledaily.com.cn
+,,,,,,,
+china,en,globaltimes,globaltimes.cn,globaltimes.cn,https://www.,,globaltimes.cn
+,,,,,,,
+china,en,chinadaily,chinadaily.com.cn,chinadaily.com.cn,https://www.,,chinadaily.com.cn
+china,en,chinadaily,chinadaily.com.cn,govt.chinadaily.com.cn,https://,,chinadaily.com.cn
+china,en,chinadaily,chinadaily.com.cn,global.chinadaily.com.cn,https://,,chinadaily.com.cn
+china,en,chinadaily,chinadaily.com.cn,epaper.chinadaily.com.cn,http://,,chinadaily.com.cn
+china,en,chinadaily,chinadailyglobal.com,chinadailyglobal.com,http://,,chinadailyglobal.com
+china,en,chinadaily,chinadaily.com.cn,enapp.chinadaily.com.cn,https://www.,,chinadaily.com.cn
+china,fr,chinadaily,chinadaily.com.cn/chinawatch_fr,chinadaily.com.cn/chinawatch_fr,https://,,chinadaily.com.cn
+china,en,chinadaily,chinadailyhk.com,chinadailyhk.com,http://www.,,chinadailyhk.com
